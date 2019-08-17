@@ -60,11 +60,11 @@ jQuery(document).ready(function($) {
     );
     
     /* Github Calendar - https://github.com/IonicaBizau/github-calendar */
-    new GitHubCalendar("#github-graph", "BlackDark");
+    // new GitHubCalendar("#github-graph", "BlackDark");
     
     
     /* Github Activity Feed - https://github.com/caseyscarborough/github-activity */
-    GitHubActivity.feed({ username: "BlackDark", selector: "#ghfeed" });
+    // GitHubActivity.feed({ username: "BlackDark", selector: "#ghfeed" });
 
 
 });
