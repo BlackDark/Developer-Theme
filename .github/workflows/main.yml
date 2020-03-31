@@ -42,6 +42,6 @@ jobs:
         # FTP account password
         ftp-password: ${{ secrets.FTP_PASS }}
         # The local folder to copy, defaults to root project folder
-        local-dir: TODO# optional
+        # local-dir: # optional
         # Passes through options into git-ftp
         # git-ftp-args: # optional
