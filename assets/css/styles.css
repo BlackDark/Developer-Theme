@@ -850,3 +850,7 @@ a.dotted-link:hover {
 .small-project {
   width: 200px;
 }
+
+.xs-project {
+  width: 100px;
+}
