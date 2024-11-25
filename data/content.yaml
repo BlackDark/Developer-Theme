@@ -1,0 +1,265 @@
+BasicInfo:
+  FirstName: Eduard
+  LastName: Marbach
+  Photo: img/avatar.jpg
+  Contacts:
+    - Icon: fas fa-phone
+      Info: +49 170 3522335
+    - Icon: fas fa-envelope
+      Info: eduard@raydak.de
+    - Icon: fas fa-globe
+      Info: <a class="contact__link" href="https://raydak.de" target="_blank">raydak.de</a>
+    - Icon: fas fa-map-marker-alt
+      Info: Germany
+    - Icon: fab fa-linkedin
+      Info: <a class="contact__link" href="https://linkedin.com/in/eduard-marbach-716445134" target="_blank">LinkedIn</a>
+    - Icon: fab fa-github
+      Info: <a class="contact__link" href="https://github.com/BlackDark" target="_blank">GitHub</a>
+
+Profile: |
+  Cloud Architect & DevOps Engineer with extensive experience in software development and cloud technologies. Currently founder at raydak GmbH, focusing on professional cloud architecture and consulting, particularly with AWS. Experienced in implementing modern technology stacks, containerization, and automation solutions. Strong background in full-stack development and DevOps practices, with expertise in Kubernetes, Docker, and various cloud platforms.
+
+Experience:
+  - Employer: raydak GmbH
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Founder
+        Date: 01/2022 - Present
+        Details:
+          - Professional architecting and consulting with Cloud environments (especially AWS)
+          - Workshops and consulting
+          - Software engineering with modern stacks
+        Badges:
+          [
+            "Kubernetes",
+            "Docker",
+            "TypeScript",
+            "React",
+            "AWS",
+            "Cloud",
+            "NextJS",
+            "Remix",
+            "Vercel",
+            "Oracle Cloud",
+          ]
+
+  - Employer: CRBN AI
+    Place: USA
+    Positions:
+      - Title: Co-Head of Engineering
+        Date: 06/2023 - Present
+        Details:
+          - AI Solution for interaction with a vast amount of documents in a easy and secure approach
+        Badges: ["Azure", "AI", "GPT", "TypeScript", "React"]
+
+  - Employer: DB Systel
+    Place: Frankfurt, DE
+    Positions:
+      - Title: Cloud Architect
+        Date: 01/2023 - 10/2024
+        Details:
+          - Modernizing Deutsche Bahn's future network infrastructure, based on Kubernetes
+          - Responsible for designing and setting up the cloud architecture in AWS
+          - Responsible for full automation and rollout
+        Badges:
+          [
+            "Kubernetes",
+            "Docker",
+            "AWS",
+            "Cloud",
+            "Python",
+            "Network",
+            "DevOps",
+            "Gitlab",
+          ]
+
+  - Employer: Mercedes-Benz AG
+    Place: Sindelfingen, DE
+    Positions:
+      - Title: Software Architect & DevOps
+        Date: 10/2019 - 04/2024
+        Details:
+          - Full development of KPI dashboard for global IT
+          - Development on MO360-FTK (Microfrontend Framework)
+          - Project Lead & Development - Tool collection application
+          - DevOps strategy and training with Azure DevOps
+          - Complete AWS setup and deployment for teams/products
+          - Fully automated CI/CD & IaC with Terraform for AWS
+        Badges:
+          [
+            "Kubernetes",
+            "Docker",
+            "TypeScript",
+            "React",
+            "NodeJS",
+            "AWS",
+            "Azure DevOps",
+            "Terraform",
+          ]
+      - Title: Software Developer
+        Date: 06/2018 - 09/2019
+        Details:
+          - WebApp Development
+          - Development on Switch (Framework for WebApps)
+          - Project-Lead and Development of production application MO Connect
+          - Development and Establishment of Daimler Styleguide
+          - Different backend and infrastructure projects
+          - Driving DevOps strategy based on CI/CD pipelines via Gitlab and Azure DevOps
+        Badges: ["Docker", "Kubernetes", "DevOps", "Gitlab", "Azure DevOps"]
+      - Title: Software Developer (Student)
+        Date: July 2017 - May 2018
+        Details:
+          - Machine Learning, App-Development
+          - Fullstack Development of server and web applications
+          - Innovation-Driven focus
+          - Server-Management and administration
+          - Testing of DevOps strategies via CI/CD pipelines
+          - Cultural Change, Agile Transformation and Coaching
+        Badges: ["Machine Learning", "Fullstack", "DevOps", "Agile"]
+
+  - Employer: AEB GmbH
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Research Assistant
+        Date: 04/2015 - 06/2017
+        Details:
+          - Development of international solutions for customs including export, import and transit
+          - Close co-operation with foreign counties
+        Badges: ["Software Development", "International Collaboration"]
+
+  - Employer: University Stuttgart
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Research Assistant
+        Date: 10/2013 - 03/2016
+        Details:
+          - Development WebVOWL
+          - Development OWL2VOWL
+        Badges: ["Research", "Software Development"]
+
+Education:
+  - Course: M.Sc. in Software Engineering
+    Place: University Stuttgart
+    Date: 10/2015 - 04/2018
+    Details: Master's degree focusing on software architecture and development
+
+  - Course: B.Sc. in Software Engineering
+    Place: University Stuttgart
+    Date: 10/2013 - 09/2015
+    Details: Bachelor's degree in software engineering fundamentals
+
+Skills:
+  - Family: Frontend
+    Items:
+      - JavaScript/TypeScript
+      - React
+      - NextJS
+      - Remix
+      - SolidJS
+      - HTML/CSS
+  - Family: Backend
+    Items:
+      - Java/Kotlin
+      - NodeJS
+      - Python
+  - Family: DevOps & Cloud
+    Items:
+      - AWS
+      - Docker
+      - Kubernetes
+      - Terraform
+      - Pulumi
+      - Azure DevOps
+      - Oracle Cloud
+      - Github Actions
+      - Gitlab CI
+  - Family: Basics
+    Items:
+      - Git
+      - Kanban
+      - Scrum
+      - JIRA
+      - Confluence
+  - Family: Special
+    Items:
+      - Vercel
+      - Netlify
+      - Cloudflare Workers
+
+Languages:
+  - Name: German
+    Level: Native
+  - Name: English
+    Level: Professional
+  - Name: Russian
+    Level: Basic
+
+Diplomas:
+  - AWS Certified Solutions Architect – Professional (2022)
+  - AWS Solution Architect Associate (2022)
+  - Cloud Engineering with Google Cloud Specialization (2020)
+  - CERTIFIED KANBAN COACH® - IBQMI® (2019)
+
+Interests:
+  - Cooking
+  - Smarthome
+  - Developing
+  - Bushcrafting
+
+Projects:
+  - Name: AIfred
+    Scope: raydak-labs
+    Description: A helper tool for all freelancers which helps to focus on getting projects and work done instead of writing responses to recruiters. With an AI approach we generate automated replies for requests from recruiters based on your defined skills and desires.
+    Links:
+      - Label: aifred.raydak.de
+        Link: https://aifred.raydak.de
+
+  - Name: Configarr
+    Scope: raydak-labs
+    Description: A synchronization tool for media stacks.
+    Links:
+      - Label: configarr.raydak.de
+        Link: https://configarr.raydak.de
+      - Label: Github
+        Link: https://github.com/raydak-labs/configarr
+
+  - Name: Engilada - Crypto transaction provider (discontinued)
+    Scope: raydak-labs
+    Description: Transaction provider similar to Paypal integrating different wallet implementations to execute smart contract transaction or move coins between wallets. Separate page which follows similar redirect concept like paypal. Discontinued project.
+
+  - Name: Pylon - IOTA NFT Marketplace (discontinued)
+    Scope: raydak-labs
+    Description: NFT Marketplace for the IOTA Foundation and MIOTA Coin. Discontinued project.
+
+  - Name: IOTA projects / contributions (discontinued)
+    Scope: raydak-labs
+    Description: Different projects and tasks for the IOTA Foundation.
+
+  - Name: Docker & Kubernetes Workshops
+    Scope: raydak-labs
+    Description: Workshops teaching Kubernetes usage, cluster setup, and production deployment with Rancher RKE
+
+  - Name: Family Office Visualization
+    Scope: raydak-labs
+    Description: Implementation of ontology-based visualization for family offices to support financial needs
+
+  - Name: MO360-FTK
+    Scope: FOSS/Mercedes
+    Description: Microfrontend framework for developing efficient and reusable web components across multiple webapps
+    Links:
+      - Label: Github
+        Link: https://github.com/Mercedes-Benz/mo360-ftk
+
+  - Name: Restyaboard
+    Scope: OpenSource
+    Description: Initiated Docker-based solution for Restyaboard, a Kanban alternative program. Maintainer of the Docker solution and CI/CD
+    Links:
+      - Label: Github
+        Link: https://github.com/RestyaPlatform/board
+
+  - Name: WebVOWL + OWL2VOWL (Visualization)
+    Scope: OpenSource
+    Description: OWL (Web Ontology Language) represents ontologies with a formal language. Together with the visual representation VOWL it can be used to visualize connected data. WebVOWL is an WebApp to visualize this language multiple ontologies and analyzing methods. OWL2VOWL is the underlying backend for transforming ordinary defined ontologies in RDF or other formats into the specific JSON structures needed for WebVOWL.
+    Links:
+      - Label: Github
+        Link: https://github.com/VisualDataWeb/WebVOWL

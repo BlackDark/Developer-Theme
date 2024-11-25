@@ -1,0 +1,52 @@
+
+
+
+enableRobotsTXT = true
+enableEmoji = true
+
+theme = "almeida-cv"
+disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+
+baseURL = "https://eduard-marbach.de/cv-new"
+title = "Eduard Marbach - CV"
+#googleAnalytics = ""
+
+languageCode = "en-us"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+    [languages.de]
+        contentDir = 'content/de'
+        disabled = false
+        languageCode = 'de-DE'
+        languageDirection = 'ltr'
+        languageName = 'Deutsch'
+        title = "Eduard Marbach - CV"
+        weight = 1
+    [languages.en]
+        contentDir = 'content/en'
+        disabled = false
+        languageCode = 'en-US'
+        languageDirection = 'ltr'
+        languageName = 'English'
+        title = "Eduard Marbach - CV"
+        weight = 2
+
+[params]
+    enableMetaTags = true
+    colorLight = "#fff"
+    colorDark = "#666"
+    colorPageBackground = "#ddd"
+    colorPrimary = "#e3bfb8"
+    colorSecondary = "#aaa"
+    colorIconPrimary = "#fff"
+    colorIconBackground = "#e3bfb8"
+    colorRightColumnBackground = "#f5f5f5"
+    colorRightColumnHeadingText = "#666"
+    colorRightColumnBodyText = "#666"
+    colorRightColumnIconPrimary = "#fff"
+    colorRightColumnIconBackground = "#e3bfb8"
+    pages = 3
+    # Set this param to 'true' to swap the bar positions
+    swapColumns = false

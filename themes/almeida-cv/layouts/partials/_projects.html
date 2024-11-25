@@ -1,0 +1,42 @@
+{{ if .Projects }}
+<div id="projects" class="section">
+  <div class="section__heading">
+    <h2 class="section__title">{{ i18n "projects" }}</h2>
+  </div>
+  <div class="section__content">
+    <div class="project">
+      {{ range .Projects }} {{ if .Class }}
+      <div class="project__item {{ .Class }}">
+        {{ else }}
+        <div class="project__item">
+          {{ end }}
+          <div class="project__header">
+            <h3 class="project__company">{{ .Name | safeHTML }}</h3>
+            <h3 class="project__place">{{ .Scope | safeHTML }}</h3>
+          </div>
+          <div class="project__job">
+            <p class="project__description">{{ .Description | safeHTML}}</p>
+
+            {{ range .Links }}
+            <ul>
+              <li class="project__bullet">
+                <a href="{{ .Link | safeHTML }}">{{ .Label | safeHTML }}</a>
+              </li>
+            </ul>
+            {{ end }}
+            {{if .Badges }}
+            <div class="project__badges">
+              <ul>
+                {{ range .Badges }}
+                <li class="project__badge">{{ . }}</li>
+                {{ end }}
+              </ul>
+            </div>
+            {{ end }}
+          </div>
+      </div>
+      {{ end }}
+    </div>
+  </div>
+</div>
+{{ end }}
