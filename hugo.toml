@@ -12,24 +12,6 @@ languageCode = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
-[languages]
-    [languages.de]
-        contentDir = 'content/de'
-        disabled = false
-        languageCode = 'de-DE'
-        languageDirection = 'ltr'
-        languageName = 'Deutsch'
-        title = "Eduard Marbach - CV"
-        weight = 1
-    [languages.en]
-        contentDir = 'content/en'
-        disabled = false
-        languageCode = 'en-US'
-        languageDirection = 'ltr'
-        languageName = 'English'
-        title = "Eduard Marbach - CV"
-        weight = 2
-
 [params]
     enableMetaTags = true
     colorLight = "#fff"
