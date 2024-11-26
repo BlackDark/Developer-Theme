@@ -1,0 +1,6 @@
+[submodule "themes/almeida-cv"]
+	path = themes/almeida-cv
+	url = https://github.com/ineesalmeida/almeida-cv.git
+[submodule "themes/blackdark-developer-theme"]
+	path = themes/blackdark-developer-theme
+	url = https://github.com/BlackDark/hugo-theme-developer.git
