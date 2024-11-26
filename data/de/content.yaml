@@ -50,7 +50,20 @@ Experience:
         Date: 06/2023 - Heute
         Details:
           - KI-Lösung für die Interaktion mit einer großen Menge an Dokumenten in einem einfachen und sicheren Ansatz
-        Badges: ["Azure", "AI", "GPT", "TypeScript", "React"]
+          - Automatisierte Verarbeitung großer Datensammlungen
+          - Cloud-Setup & Deployment, IaC, DevOps, Sicherheit
+        Badges:
+          [
+            "Azure",
+            "AI",
+            "GPT",
+            "TypeScript",
+            "React",
+            "LLM",
+            "Vercel",
+            "Supabase",
+            "Pulumi",
+          ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -71,19 +84,20 @@ Experience:
             "Network",
             "DevOps",
             "Gitlab",
+            "Terraform",
           ]
 
   - Employer: Mercedes-Benz AG
     Place: Sindelfingen, DE
     Positions:
-      - Title: Software Architekt & DevOps
+      - Title: Cloud Architekt & DevOps
         Date: 10/2019 - 04/2024
         Details:
+          - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte
           - Vollständige Entwicklung des KPI-Dashboards für globale IT
           - Entwicklung an MO360-FTK (Microfrontend Framework)
           - Projektleitung & Entwicklung - Tool-Sammlungsanwendung
           - DevOps-Strategie und Training mit Azure DevOps
-          - Komplettes AWS-Setup und Deployment für Teams/Produkte
           - Vollautomatisiertes CI/CD & IaC mit Terraform für AWS
         Badges:
           [
@@ -106,16 +120,24 @@ Experience:
           - Verschiedene Backend- und Infrastrukturprojekte
           - Vorantreiben der DevOps-Strategie basierend auf CI/CD-Pipelines via Gitlab und Azure DevOps
         Badges: ["Docker", "Kubernetes", "DevOps", "Gitlab", "Azure DevOps"]
-      - Title: Softwareentwickler (Student)
+      - Title: Softwareentwickler
         Date: Juli 2017 - Mai 2018
         Details:
           - Machine Learning, App-Entwicklung
           - Fullstack-Entwicklung von Server- und Webanwendungen
           - Innovationsgetriebener Fokus
-          - Server-Management und Administration
+          - Server-Management und Administration mit Rancher
           - Testen von DevOps-Strategien via CI/CD-Pipelines
           - Kulturwandel, Agile Transformation und Coaching
-        Badges: ["Machine Learning", "Fullstack", "DevOps", "Agile"]
+        Badges:
+          [
+            "Machine Learning",
+            "Fullstack",
+            "DevOps",
+            "Agile",
+            "Docker",
+            "Rancher",
+          ]
 
   - Employer: AEB GmbH
     Place: Stuttgart, DE
@@ -125,7 +147,14 @@ Experience:
         Details:
           - Entwicklung internationaler Lösungen für Zoll einschließlich Export, Import und Transit
           - Enge Zusammenarbeit mit ausländischen Partnern
-        Badges: ["Softwareentwicklung", "Internationale Zusammenarbeit"]
+        Badges:
+          [
+            "Softwareentwicklung",
+            "Internationale Zusammenarbeit",
+            "Jenkins",
+            "Fullstack",
+            "Java",
+          ]
 
   - Employer: Universität Stuttgart
     Place: Stuttgart, DE
@@ -135,7 +164,15 @@ Experience:
         Details:
           - Entwicklung WebVOWL
           - Entwicklung OWL2VOWL
-        Badges: ["Forschung", "Softwareentwicklung"]
+        Badges:
+          [
+            "Forschung",
+            "Softwareentwicklung",
+            "Github",
+            "NodeJS",
+            "Javascript",
+            "Fullstack",
+          ]
 
 Education:
   - Course: M.Sc. in Softwaretechnik

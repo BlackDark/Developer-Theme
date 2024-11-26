@@ -50,7 +50,20 @@ Experience:
         Date: 06/2023 - Present
         Details:
           - AI Solution for interaction with a vast amount of documents in a easy and secure approach
-        Badges: ["Azure", "AI", "GPT", "TypeScript", "React"]
+          - Autotmated processing of big data collections
+          - Cloud Setup & Deployment, IaC, DevOps, Security
+        Badges:
+          [
+            "Azure",
+            "AI",
+            "GPT",
+            "TypeScript",
+            "React",
+            "LLM",
+            "Vercel",
+            "Supabase",
+            "Pulumi",
+          ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -71,19 +84,20 @@ Experience:
             "Network",
             "DevOps",
             "Gitlab",
+            "Terraform",
           ]
 
   - Employer: Mercedes-Benz AG
     Place: Sindelfingen, DE
     Positions:
-      - Title: Software Architect & DevOps
+      - Title: Cloud Architect & DevOps
         Date: 10/2019 - 04/2024
         Details:
+          - Complete AWS setup, deployment and maintenance for teams/products
           - Full development of KPI dashboard for global IT
           - Development on MO360-FTK (Microfrontend Framework)
           - Project Lead & Development - Tool collection application
           - DevOps strategy and training with Azure DevOps
-          - Complete AWS setup and deployment for teams/products
           - Fully automated CI/CD & IaC with Terraform for AWS
         Badges:
           [
@@ -106,16 +120,24 @@ Experience:
           - Different backend and infrastructure projects
           - Driving DevOps strategy based on CI/CD pipelines via Gitlab and Azure DevOps
         Badges: ["Docker", "Kubernetes", "DevOps", "Gitlab", "Azure DevOps"]
-      - Title: Software Developer (Student)
+      - Title: Software Developer
         Date: July 2017 - May 2018
         Details:
           - Machine Learning, App-Development
           - Fullstack Development of server and web applications
           - Innovation-Driven focus
-          - Server-Management and administration
+          - Server-Management and administration with Rancher
           - Testing of DevOps strategies via CI/CD pipelines
           - Cultural Change, Agile Transformation and Coaching
-        Badges: ["Machine Learning", "Fullstack", "DevOps", "Agile"]
+        Badges:
+          [
+            "Machine Learning",
+            "Fullstack",
+            "DevOps",
+            "Agile",
+            "Docker",
+            "Rancher",
+          ]
 
   - Employer: AEB GmbH
     Place: Stuttgart, DE
@@ -125,7 +147,8 @@ Experience:
         Details:
           - Development of international solutions for customs including export, import and transit
           - Close co-operation with foreign counties
-        Badges: ["Software Development", "International Collaboration"]
+        Badges:
+          ["Software Development", "International Collaboration", "Jenkins"]
 
   - Employer: University Stuttgart
     Place: Stuttgart, DE
@@ -135,7 +158,15 @@ Experience:
         Details:
           - Development WebVOWL
           - Development OWL2VOWL
-        Badges: ["Research", "Software Development"]
+        Badges:
+          [
+            "Research",
+            "Software Development",
+            "Github",
+            "NodeJS",
+            "Javascript",
+            "Fullstack",
+          ]
 
 Education:
   - Course: M.Sc. in Software Engineering
