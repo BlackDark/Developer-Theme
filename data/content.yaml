@@ -5,7 +5,7 @@ BasicInfo:
   Location: Stuttgart, Germany
   Mail: website@eduard-marbach.de
   Web: https://raydak.de
-  Photo: img/avatar.jpg
+  Photo: ./img/avatar.jpg
   Contact: https://www.freelance.de/Freiberufler/178118
   SocialLinks:
     - Icon: fab fa-github-alt
@@ -234,7 +234,7 @@ Projects:
     Scope: raydak-labs
     Description: A synchronization tool for media stacks.
     MainLink: https://configarr.raydak.de/
-    Image: img/dashboard.webp
+    Image: ./img/dashboard.webp
     Links:
       - Label: configarr.raydak.de
         Link: https://configarr.raydak.de
@@ -244,33 +244,33 @@ Projects:
   - Name: Engilada - Crypto transaction provider (discontinued)
     Scope: raydak-labs
     Description: Transaction provider similar to Paypal integrating different wallet implementations to execute smart contract transaction or move coins between wallets. Separate page which follows similar redirect concept like paypal. Discontinued project.
-    Image: img/engi.svg
+    Image: ./img/engi.svg
 
   - Name: Pylon - IOTA NFT Marketplace (discontinued)
     Scope: raydak-labs
     Description: NFT Marketplace for the IOTA Foundation and MIOTA Coin. Discontinued project.
-    Image: img/pylon.png
+    Image: ./img/pylon.png
 
   - Name: IOTA projects / contributions (discontinued)
     Scope: raydak-labs
     Description: Different projects and tasks for the IOTA Foundation.
-    Image: img/iota.webp
+    Image: ./img/iota.webp
 
   - Name: Docker & Kubernetes Workshops
     Scope: raydak-labs
     Description: Workshops teaching Kubernetes usage, cluster setup, and production deployment with Rancher RKE
-    Image: img/dashboard.webp
+    Image: ./img/dashboard.webp
 
   - Name: Family Office Visualization
     Scope: raydak-labs
     Description: Implementation of ontology-based visualization for family offices to support financial needs
-    Image: img/dashboard.webp
+    Image: ./img/dashboard.webp
 
   - Name: MO360-FTK
     Scope: FOSS/Mercedes
     Description: Microfrontend framework for developing efficient and reusable web components across multiple webapps
     MainLink: https://github.com/mercedes-benz/mo360-ftk
-    Image: img/mo360_ftk_banner.png
+    Image: ./img/mo360_ftk_banner.png
     Links:
       - Label: Github
         Link: https://github.com/Mercedes-Benz/mo360-ftk
@@ -279,7 +279,7 @@ Projects:
     Scope: OpenSource
     Description: OWL (Web Ontology Language) represents ontologies with a formal language. Together with the visual representation VOWL it can be used to visualize connected data. WebVOWL is an WebApp to visualize this language multiple ontologies and analyzing methods. OWL2VOWL is the underlying backend for transforming ordinary defined ontologies in RDF or other formats into the specific JSON structures needed for WebVOWL.
     MainLink: https://github.com/VisualDataWeb/WebVOWL
-    Image: img/webvowl.png
+    Image: ./img/webvowl.png
     Links:
       - Label: Github
         Link: https://github.com/VisualDataWeb/WebVOWL
