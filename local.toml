@@ -4,7 +4,7 @@ enableEmoji = true
 theme = "blackdark-developer-theme"
 disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
 
-baseURL = "https://eduard-marbach.de/resume"
+baseURL = "."
 title = "Eduard Marbach - CV"
 #googleAnalytics = ""
 
