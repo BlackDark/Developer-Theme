@@ -147,12 +147,22 @@ Education:
     Details: Bachelor's degree in software engineering fundamentals
 
 SkillLevel:
-  - Name: Docker & Kubernetes
-    Level: 100
   - Name: Amazon Web Services (AWS)
+    Level: 100
+  - Name: Docker & Kubernetes
     Level: 100
   - Name: Terraform/Pulumi (IaC)
     Level: 100
+  - Name: CI/CD (Gitlab, Github, AzureDevops)
+    Level: 100
+  - Name: Typescript/Javascript
+    Level: 100
+  - Name: React/NextJS/Remix
+    Level: 100
+  - Name: Python
+    Level: 74
+  - Name: Java/Kotlin
+    Level: 60
 
 Languages:
   - Name: German
@@ -169,13 +179,31 @@ Certificates:
   - Name: AWS Solutions Architect – Professional
     From: AWS
     Date: December 2022
-    Link: https://xxx
+    Link: https://www.credly.com/badges/46714fef-58ab-4730-85e2-5f70faa41ae4/public_url
+
+  - Name: AWS Solutions Architect – Associate
+    From: AWS
+    Date: September 2022
+    Link: https://www.credly.com/badges/384bdf9b-bd87-4b02-a681-5e345faa74f4/public_url
+
+  - Name: Cloud Engineering with Google Cloud
+    From: Coursera
+    Date: April 2020
+    Link: https://www.coursera.org/account/accomplishments/specialization/certificate/WB4QZR7LP4P6
+
+  - Name: CERTIFIED KANBAN COACH®
+    From: IBQMI®
+    Date: 2019
+
+  - Name: Google Cloud Essentials
+    From: Google
+    Date: 2020
+    Link: https://www.cloudskillsboost.google/public_profiles/fbdc1b50-ead1-42df-8fec-5a4c2f4c4e8b
 
 Qualifications:
   - Name: F1 + F2 Driving License
     From: Mercedes-Benz
     Date: 2022
-    Link: https://xxx
 
 Interests:
   - Cooking
@@ -205,6 +233,8 @@ Projects:
   - Name: Configarr
     Scope: raydak-labs
     Description: A synchronization tool for media stacks.
+    MainLink: https://configarr.raydak.de/
+    Image: img/dashboard.webp
     Links:
       - Label: configarr.raydak.de
         Link: https://configarr.raydak.de
@@ -214,40 +244,42 @@ Projects:
   - Name: Engilada - Crypto transaction provider (discontinued)
     Scope: raydak-labs
     Description: Transaction provider similar to Paypal integrating different wallet implementations to execute smart contract transaction or move coins between wallets. Separate page which follows similar redirect concept like paypal. Discontinued project.
+    Image: img/engi.svg
 
   - Name: Pylon - IOTA NFT Marketplace (discontinued)
     Scope: raydak-labs
     Description: NFT Marketplace for the IOTA Foundation and MIOTA Coin. Discontinued project.
+    Image: img/pylon.png
 
   - Name: IOTA projects / contributions (discontinued)
     Scope: raydak-labs
     Description: Different projects and tasks for the IOTA Foundation.
+    Image: img/iota.webp
 
   - Name: Docker & Kubernetes Workshops
     Scope: raydak-labs
     Description: Workshops teaching Kubernetes usage, cluster setup, and production deployment with Rancher RKE
+    Image: img/dashboard.webp
 
   - Name: Family Office Visualization
     Scope: raydak-labs
     Description: Implementation of ontology-based visualization for family offices to support financial needs
+    Image: img/dashboard.webp
 
   - Name: MO360-FTK
     Scope: FOSS/Mercedes
     Description: Microfrontend framework for developing efficient and reusable web components across multiple webapps
+    MainLink: https://github.com/mercedes-benz/mo360-ftk
+    Image: img/mo360_ftk_banner.png
     Links:
       - Label: Github
         Link: https://github.com/Mercedes-Benz/mo360-ftk
 
-  - Name: Restyaboard
-    Scope: OpenSource
-    Description: Initiated Docker-based solution for Restyaboard, a Kanban alternative program. Maintainer of the Docker solution and CI/CD
-    Links:
-      - Label: Github
-        Link: https://github.com/RestyaPlatform/board
-
   - Name: WebVOWL + OWL2VOWL (Visualization)
     Scope: OpenSource
     Description: OWL (Web Ontology Language) represents ontologies with a formal language. Together with the visual representation VOWL it can be used to visualize connected data. WebVOWL is an WebApp to visualize this language multiple ontologies and analyzing methods. OWL2VOWL is the underlying backend for transforming ordinary defined ontologies in RDF or other formats into the specific JSON structures needed for WebVOWL.
+    MainLink: https://github.com/VisualDataWeb/WebVOWL
+    Image: img/webvowl.png
     Links:
       - Label: Github
         Link: https://github.com/VisualDataWeb/WebVOWL
