@@ -52,6 +52,15 @@ Experience:
       - AI Solution for interaction with a vast amount of documents in a easy and secure approach
     Badges: ["Azure", "AI", "GPT", "TypeScript", "React"]
 
+  - Employer: raydak GmbH
+    Place: Stuttgart, DE
+    Title: Cloud Architect
+    Date: 10/2024 - 12/2024
+    Details:
+      - Development of AI Replyer for Freelancers: AIFred
+      - Development of media configuration tool: Configarr
+    Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
+
   - Employer: DB Systel
     Place: Frankfurt, DE
     Title: Cloud Architect
@@ -75,7 +84,7 @@ Experience:
   - Employer: Mercedes-Benz AG
     Place: Sindelfingen, DE
     Title: Software Architect & DevOps
-    Date: 10/2019 - 04/2024
+    Date: 10/2019 - 04/2023
     Details:
       - Full development of KPI dashboard for global IT
       - Development on MO360-FTK (Microfrontend Framework)
@@ -176,6 +185,14 @@ Languages:
     NumStars: 1
 
 Certificates:
+  - Name: Certified Kubernetes Administrator
+    From: Linux
+    Date: 2024
+
+  - Name: Certified Kuberenetes Application Developer
+    From: Linux
+    Date: 2024
+
   - Name: AWS Solutions Architect – Professional
     From: AWS
     Date: December 2022
