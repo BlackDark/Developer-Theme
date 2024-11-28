@@ -65,6 +65,16 @@ Experience:
             "Pulumi",
           ]
 
+  - Employer: raydak GmbH
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Cloud Architect
+        Date: 10/2024 - 12/2024
+        Details:
+          - Development of AI Replyer for Freelancers - AIFred
+          - Development of media configuration tool - Configarr
+        Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
+
   - Employer: DB Systel
     Place: Frankfurt, DE
     Positions:
@@ -91,7 +101,7 @@ Experience:
     Place: Sindelfingen, DE
     Positions:
       - Title: Cloud Architect & DevOps
-        Date: 10/2019 - 04/2024
+        Date: 10/2019 - 04/2023
         Details:
           - Complete AWS setup, deployment and maintenance for teams/products
           - Full development of KPI dashboard for global IT
@@ -226,6 +236,8 @@ Languages:
     Level: Basic
 
 Diplomas:
+  - Certified Kubernetes Administrator (2024)
+  - Certified Kuberenetes Application Developer (2024)
   - AWS Certified Solutions Architect – Professional (2022)
   - AWS Solution Architect Associate (2022)
   - Cloud Engineering with Google Cloud Specialization (2020)
