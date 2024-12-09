@@ -185,13 +185,13 @@ Languages:
     NumStars: 1
 
 Certificates:
-  - Name: Certified Kubernetes Administrator
-    From: Linux
-    Date: (Planning) 2024
+  - Name: Kubernetes Administrator
+    From: Planned
+    Date: 2024
 
-  - Name: Certified Kuberenetes Application Developer
-    From: Linux
-    Date: (Planning) 2024
+  - Name: Kuberenetes Application Developer
+    From: Planned
+    Date: 2024
 
   - Name: AWS Solutions Architect – Professional
     From: AWS
