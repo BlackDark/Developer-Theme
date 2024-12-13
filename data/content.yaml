@@ -69,6 +69,8 @@ Experience:
       - Modernizing Deutsche Bahn's future network infrastructure, based on Kubernetes
       - Responsible for designing and setting up the cloud architecture in AWS
       - Responsible for full automation and rollout
+      - Implementation of different network automation requirements based on Cisco, BGP, IPAM, ...
+      - Implementation of different monitoring solutions for distributing, managing and securing the application landscape
     Badges:
       [
         "Kubernetes",
