@@ -55,10 +55,11 @@ Experience:
   - Employer: raydak GmbH
     Place: Stuttgart, DE
     Title: Cloud Architect
-    Date: 10/2024 - 12/2024
+    Date: 10/2024 - 01/2025
     Details:
       - Development of AI Replyer for Freelancers - AIFred
       - Development of media configuration tool - Configarr
+      - Strategic decision for future of OpenSource organization - VisualDataWeb
     Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
 
   - Employer: DB Systel
@@ -240,8 +241,13 @@ FeaturedProject:
   # Image: https://aifred.raydak.de/aifred_icon.jpg
 
 Projects:
+  - Name: VisualDataWeb
+    Scope: OpenSource
+    Description: Took over Github Orga for the well known tools WebVOWL and OWL2VOWL. Strategic decision of what to do with the tools and how to maintain them.
+    MainLink: https://github.com/VisualDataWeb
+    Image: https://avatars.githubusercontent.com/u/11428654?s=200&v=4
   - Name: AIfred
-    Scope: raydak-labs
+    Scope: OpenSource
     Description: A helper tool for all freelancers which helps to focus on getting projects and work done instead of writing responses to recruiters. With an AI approach we generate automated replies for requests from recruiters based on your defined skills and desires.
     MainLink: https://aifred.raydak.de
     Image: https://aifred.raydak.de/aifred_icon.jpg
