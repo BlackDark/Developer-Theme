@@ -73,6 +73,7 @@ Experience:
         Details:
           - Entwicklung eines KI Antwort Generators - AIFred
           - Entwicklung einer Media Konfigurations ANwendung - Configarr
+          - Strategische Entscheidung über die Organisation - VisualDataWeb
         Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
 
   - Employer: DB Systel
@@ -258,6 +259,13 @@ Interests:
   - Bushcraft
 
 Projects:
+  - Name: VisualDataWeb
+    Scope: OpenSource
+    Description: Übernahme der Github Organisation von VisualDataWeb mit den sehr verbreiteten Tools wie WebVOWL für Visualisierungen.
+    Links:
+      - Label: VisualDataWeb
+        Link: https://github.com/VisualDataWeb
+
   - Name: AIfred
     Scope: raydak-labs
     Description: Ein Hilfstool für alle Freelancer, das hilft, sich auf die Projektgewinnung und Arbeit zu konzentrieren, anstatt Antworten an Recruiter zu schreiben. Mit einem KI-Ansatz generieren wir automatisierte Antworten auf Anfragen von Recruitern basierend auf definierten Fähigkeiten und Wünschen.
@@ -266,7 +274,7 @@ Projects:
         Link: https://aifred.raydak.de
 
   - Name: Configarr
-    Scope: raydak-labs
+    Scope: OpenSource
     Description: Ein Synchronisierungstool für Media-Stacks.
     Links:
       - Label: configarr.raydak.de
