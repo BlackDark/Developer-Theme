@@ -18,7 +18,11 @@ BasicInfo:
       HRef: https://www.freelance.de/Freiberufler/178118
 
 Profile: |
-  Cloud Architect & DevOps Engineer with extensive experience in software development and cloud technologies. Currently founder at raydak GmbH, focusing on professional cloud architecture and consulting, particularly with AWS. Experienced in implementing modern technology stacks, containerization, and automation solutions. Strong background in full-stack development and DevOps practices, with expertise in Kubernetes, Docker, and various cloud platforms.
+  Cloud Architect & DevOps Engineer with extensive experience in software development and cloud technologies (10+ years experience). 
+  Currently founder at raydak GmbH, focusing on professional cloud architecture and consulting, particularly with AWS. 
+  Experienced in implementing modern technology stacks, containerization, and automation solutions. 
+  Strong background in full-stack development and DevOps practices, with expertise in Kubernetes, Docker, and various cloud platforms.
+  Last but not least having fun with OpenSource projects and community work!
 
 Experience:
   - Employer: raydak GmbH
@@ -30,18 +34,19 @@ Experience:
       - Professional architecting and consulting with Cloud environments (especially AWS)
       - Workshops and consulting
       - Software engineering with modern stacks
+      - OpenSource/Community projects and support
     Badges:
       [
-        "Kubernetes",
-        "Docker",
-        "TypeScript",
-        "React",
         "AWS",
         "Cloud",
+        "Docker",
+        "Kubernetes",
         "NextJS",
-        "Remix",
-        "Vercel",
         "Oracle Cloud",
+        "React",
+        "Remix",
+        "TypeScript",
+        "Vercel",
       ]
 
   - Employer: CRBN AI
@@ -50,17 +55,44 @@ Experience:
     Date: 06/2023 - Present
     Details:
       - AI Solution for interaction with a vast amount of documents in a easy and secure approach
-    Badges: ["Azure", "AI", "GPT", "TypeScript", "React"]
+      - Autotmated processing of big data collections
+      - Cloud Setup & Deployment, IaC, DevOps, Security
+    Badges:
+      [
+        "AI",
+        "AWS",
+        "Azure",
+        "GPT",
+        "Kubernetes",
+        "LLM",
+        "Pulumi",
+        "React",
+        "Supabase",
+        "TypeScript",
+        "Vercel",
+      ]
 
   - Employer: raydak GmbH
     Place: Stuttgart, DE
     Title: Cloud Architect
-    Date: 10/2024 - 01/2025
+    Date: 10/2024 - Present
     Details:
       - Development of AI Replyer for Freelancers - AIFred
       - Development of media configuration tool - Configarr
       - Strategic decision for future of OpenSource organization - VisualDataWeb
-    Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
+        - Automation of every Cloud resource, Testing and Deployment including Community interaction
+    Badges:
+      [
+        "AWS",
+        "Cloud",
+        "DevOps",
+        "Github Actions",
+        "Kubernetes",
+        "Netlify",
+        "Postgres",
+        "Remix",
+        "Typescript",
+      ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -74,14 +106,15 @@ Experience:
       - Implementation of different monitoring solutions for distributing, managing and securing the application landscape
     Badges:
       [
-        "Kubernetes",
-        "Docker",
         "AWS",
         "Cloud",
-        "Python",
-        "Network",
         "DevOps",
+        "Docker",
         "Gitlab",
+        "Kubernetes",
+        "Network",
+        "Python",
+        "Terraform",
       ]
 
   - Employer: Mercedes-Benz AG
@@ -89,26 +122,30 @@ Experience:
     Title: Software Architect & DevOps
     Date: 10/2019 - 04/2023
     Details:
+      - Complete AWS setup, deployment and maintenance for teams/products
+      - Full Setup of Cloud Network Setup with OnPremise
       - Full development of KPI dashboard for global IT
       - Development on MO360-FTK (Microfrontend Framework)
       - Project Lead & Development - Tool collection application
       - DevOps strategy and training with Azure DevOps
-      - Complete AWS setup and deployment for teams/products
       - Fully automated CI/CD & IaC with Terraform for AWS
     Badges:
       [
-        "Kubernetes",
-        "Docker",
-        "TypeScript",
-        "React",
-        "NodeJS",
+        "Architecture",
         "AWS",
         "Azure DevOps",
+        "DevOps",
+        "Docker",
+        "Kubernetes",
+        "Network",
+        "NodeJS",
+        "React",
         "Terraform",
+        "TypeScript",
       ]
   - Employer: Mercedes-Benz AG
     Place: Sindelfingen, DE
-    Title: Software Developer
+    Title: Software Developer (Production)
     Date: 06/2018 - 09/2019
     Details:
       - WebApp Development
@@ -117,26 +154,56 @@ Experience:
       - Development and Establishment of Daimler Styleguide
       - Different backend and infrastructure projects
       - Driving DevOps strategy based on CI/CD pipelines via Gitlab and Azure DevOps
-    Badges: ["Docker", "Kubernetes", "DevOps", "Gitlab", "Azure DevOps"]
-  - Title: Software Developer (Student)
+      - Automation setup for everything possible
+    Badges:
+      [
+        "AWS",
+        "Azure DevOps",
+        "DevOps",
+        "Docker",
+        "Gitlab",
+        "Kubernetes",
+        "Typescript",
+      ]
+
+  - Title: Software Developer (Research)
     Date: July 2017 - May 2018
     Details:
       - Machine Learning, App-Development
       - Fullstack Development of server and web applications
       - Innovation-Driven focus
-      - Server-Management and administration
+      - Server-Management and administration with Rancher
       - Testing of DevOps strategies via CI/CD pipelines
       - Cultural Change, Agile Transformation and Coaching
-    Badges: ["Machine Learning", "Fullstack", "DevOps", "Agile"]
+    Badges:
+      [
+        "Agile",
+        "DevOps",
+        "Docker",
+        "Fullstack",
+        "Machine Learning",
+        "Python",
+        "Rancher",
+      ]
 
   - Employer: AEB GmbH
     Place: Stuttgart, DE
-    Title: Research Assistant
+    Title: Software Developer
     Date: 04/2015 - 06/2017
     Details:
       - Development of international solutions for customs including export, import and transit
       - Close co-operation with foreign counties
-    Badges: ["Software Development", "International Collaboration"]
+      - Fullstack Development with Java (including JRebel, Eclipse, ...) and Custom Packages
+      - Automation and CI with Jenkins with multiple test stages
+    Badges:
+      [
+        "CI/CD",
+        "DevOps",
+        "International",
+        "Java",
+        "Jenkins",
+        "Software Development",
+      ]
 
   - Employer: University Stuttgart
     Place: Stuttgart, DE
@@ -145,7 +212,16 @@ Experience:
     Details:
       - Development WebVOWL
       - Development OWL2VOWL
-    Badges: ["Research", "Software Development"]
+      - Research in Semantic Web Technologies
+    Badges:
+      [
+        "Fullstack",
+        "Github",
+        "Javascript",
+        "NodeJS",
+        "Research",
+        "Software Development",
+      ]
 
 Education:
   - Course: M.Sc. in Software Engineering
@@ -246,6 +322,7 @@ Projects:
     Description: Took over Github Orga for the well known tools WebVOWL and OWL2VOWL. Strategic decision of what to do with the tools and how to maintain them.
     MainLink: https://github.com/VisualDataWeb
     Image: https://avatars.githubusercontent.com/u/11428654?s=200&v=4
+
   - Name: AIfred
     Scope: OpenSource
     Description: A helper tool for all freelancers which helps to focus on getting projects and work done instead of writing responses to recruiters. With an AI approach we generate automated replies for requests from recruiters based on your defined skills and desires.
