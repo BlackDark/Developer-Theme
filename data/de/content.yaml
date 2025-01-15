@@ -17,7 +17,11 @@ BasicInfo:
       Info: <a class="contact__link" href="https://github.com/BlackDark" target="_blank">GitHub</a>
 
 Profile: |
-  Cloud Architekt & DevOps Engineer mit umfangreicher Erfahrung in Softwareentwicklung und Cloud-Technologien. Aktuell Gründer der raydak GmbH, spezialisiert auf professionelle Cloud-Architektur und Beratung, insbesondere mit AWS. Erfahren in der Implementierung moderner Technologie-Stacks, Containerisierung und Automatisierungslösungen. Fundierter Hintergrund in Full-Stack-Entwicklung und DevOps-Praktiken, mit Expertise in Kubernetes, Docker und verschiedenen Cloud-Plattformen.
+  Cloud Architekt & DevOps Engineer mit umfangreicher Erfahrung in Softwareentwicklung und Cloud-Technologien (Erfahrung 10+ Jahre). 
+  Aktuell Gründer der raydak GmbH, spezialisiert auf professionelle Cloud-Architektur und Beratung, insbesondere mit AWS. 
+  Erfahren in der Implementierung moderner Technologie-Stacks, Containerisierung und Automatisierungslösungen. 
+  Fundierter Hintergrund in Full-Stack-Entwicklung und DevOps-Praktiken, mit Expertise in Kubernetes, Docker und verschiedenen Cloud-Plattformen.
+  Als Abschluss trage ich gerne zu OpenSource Projekten bei und bin immer auf der Suche nach neuen Herausforderungen!
 
 Experience:
   - Employer: raydak GmbH
@@ -29,18 +33,19 @@ Experience:
           - Professionelle Architektur und Beratung für Cloud-Umgebungen (insbesondere AWS)
           - Workshops und Beratung
           - Softwareentwicklung mit modernen Technologie-Stacks
+          - OpenSource/Community Projekte und Support
         Badges:
           [
-            "Kubernetes",
-            "Docker",
-            "TypeScript",
-            "React",
             "AWS",
             "Cloud",
+            "Docker",
+            "Kubernetes",
             "NextJS",
-            "Remix",
-            "Vercel",
             "Oracle Cloud",
+            "React",
+            "Remix",
+            "TypeScript",
+            "Vercel",
           ]
 
   - Employer: CRBN AI
@@ -54,27 +59,41 @@ Experience:
           - Cloud-Setup & Deployment, IaC, DevOps, Sicherheit
         Badges:
           [
-            "Azure",
             "AI",
+            "AWS",
+            "Azure",
             "GPT",
-            "TypeScript",
-            "React",
+            "Kubernetes",
             "LLM",
-            "Vercel",
-            "Supabase",
             "Pulumi",
+            "React",
+            "Supabase",
+            "TypeScript",
+            "Vercel",
           ]
 
   - Employer: raydak GmbH
     Place: Stuttgart, DE
     Positions:
       - Title: Cloud Architekt
-        Date: 10/2024 - 12/2024
+        Date: 10/2024 - Heute
         Details:
           - Entwicklung eines KI Antwort Generators - AIFred
           - Entwicklung einer Media Konfigurations ANwendung - Configarr
           - Strategische Entscheidung über die Organisation - VisualDataWeb
-        Badges: ["Netlify", "Remix", "Typescript", "Cloud", "Github Actions"]
+          - Automatisierung aller Prozesse wie Cloud, Testing und Deployment (mit Community Integrationen)
+        Badges:
+          [
+            "AWS",
+            "Cloud",
+            "DevOps",
+            "Github Actions",
+            "Kubernetes",
+            "Netlify",
+            "Postgres",
+            "Remix",
+            "Typescript",
+          ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -89,14 +108,14 @@ Experience:
           - Implementierung verschiedener Monitoring-Lösungen zur Verteilung, Verwaltung und Sicherung der Anwendungslandschaft
         Badges:
           [
-            "Kubernetes",
-            "Docker",
             "AWS",
             "Cloud",
-            "Python",
-            "Network",
             "DevOps",
+            "Docker",
             "Gitlab",
+            "Kubernetes",
+            "Network",
+            "Python",
             "Terraform",
           ]
 
@@ -107,6 +126,7 @@ Experience:
         Date: 10/2019 - 04/2023
         Details:
           - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte
+          - Kompletter Aufbau des Cloud Netzwerks mit OnPremise
           - Vollständige Entwicklung des KPI-Dashboards für globale IT
           - Entwicklung an MO360-FTK (Microfrontend Framework)
           - Projektleitung & Entwicklung - Tool-Sammlungsanwendung
@@ -114,16 +134,19 @@ Experience:
           - Vollautomatisiertes CI/CD & IaC mit Terraform für AWS
         Badges:
           [
-            "Kubernetes",
-            "Docker",
-            "TypeScript",
-            "React",
-            "NodeJS",
+            "Architecture",
             "AWS",
             "Azure DevOps",
+            "DevOps",
+            "Docker",
+            "Kubernetes",
+            "Network",
+            "NodeJS",
+            "React",
             "Terraform",
+            "TypeScript",
           ]
-      - Title: Softwareentwickler
+      - Title: Softwareentwickler (Production)
         Date: 06/2018 - 09/2019
         Details:
           - WebApp-Entwicklung
@@ -132,8 +155,18 @@ Experience:
           - Entwicklung und Etablierung des Daimler Styleguide
           - Verschiedene Backend- und Infrastrukturprojekte
           - Vorantreiben der DevOps-Strategie basierend auf CI/CD-Pipelines via Gitlab und Azure DevOps
-        Badges: ["Docker", "Kubernetes", "DevOps", "Gitlab", "Azure DevOps"]
-      - Title: Softwareentwickler
+          - Automatisierung aller Prozesse
+        Badges:
+          [
+            "AWS",
+            "Azure DevOps",
+            "DevOps",
+            "Docker",
+            "Gitlab",
+            "Kubernetes",
+            "Typescript",
+          ]
+      - Title: Softwareentwickler (Research)
         Date: Juli 2017 - Mai 2018
         Details:
           - Machine Learning, App-Entwicklung
@@ -144,29 +177,33 @@ Experience:
           - Kulturwandel, Agile Transformation und Coaching
         Badges:
           [
-            "Machine Learning",
-            "Fullstack",
-            "DevOps",
             "Agile",
+            "DevOps",
             "Docker",
+            "Fullstack",
+            "Machine Learning",
+            "Python",
             "Rancher",
           ]
 
   - Employer: AEB GmbH
     Place: Stuttgart, DE
     Positions:
-      - Title: Wissenschaftlicher Mitarbeiter
+      - Title: Software Developer
         Date: 04/2015 - 06/2017
         Details:
           - Entwicklung internationaler Lösungen für Zoll einschließlich Export, Import und Transit
           - Enge Zusammenarbeit mit ausländischen Partnern
+          - Fullstack Entwicklung mit  Java (including JRebel, Eclipse, ...) und firmeninternen Frameworks
+          - Automatisierung mit Jenkins auf mehreren Stages
         Badges:
           [
-            "Softwareentwicklung",
-            "Internationale Zusammenarbeit",
-            "Jenkins",
-            "Fullstack",
+            "CI/CD",
+            "DevOps",
+            "International",
             "Java",
+            "Jenkins",
+            "Software Development",
           ]
 
   - Employer: Universität Stuttgart
@@ -177,14 +214,15 @@ Experience:
         Details:
           - Entwicklung WebVOWL
           - Entwicklung OWL2VOWL
+          - Forschung im Bereich der Visualisierung von Ontologien
         Badges:
           [
-            "Forschung",
-            "Softwareentwicklung",
-            "Github",
-            "NodeJS",
-            "Javascript",
             "Fullstack",
+            "Github",
+            "Javascript",
+            "NodeJS",
+            "Research",
+            "Software Development",
           ]
 
 Education:
@@ -235,6 +273,8 @@ Skills:
       - Vercel
       - Netlify
       - Cloudflare Workers
+      - Proxmox
+      - Opnsense
 
 Languages:
   - Name: Deutsch
