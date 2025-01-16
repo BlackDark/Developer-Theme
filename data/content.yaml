@@ -57,6 +57,7 @@ Experience:
           - AI Solution for interaction with a vast amount of documents in a easy and secure approach
           - Autotmated processing of big data collections
           - Cloud Setup & Deployment, IaC, DevOps, Security
+          - Enterprise Architecture and Security focused integration of tools and AI
         Badges:
           [
             "AI",
@@ -82,6 +83,7 @@ Experience:
           - Development of media configuration tool - Configarr
           - Strategic decision for future of OpenSource organization - VisualDataWeb
           - Automation of every Cloud resource, Testing and Deployment including Community interaction
+          - Server automation with Proxmox, OpenStack combined with K3s for Kubernetes
         Badges:
           [
             "AWS",
@@ -132,6 +134,7 @@ Experience:
           - Project Lead & Development - Tool collection application
           - DevOps strategy and training with Azure DevOps
           - Fully automated CI/CD & IaC with Terraform for AWS
+          - Experimental setups with OpenStack and OpenShift
         Badges:
           [
             "Architecture",
@@ -321,6 +324,10 @@ Projects:
         Link: https://configarr.raydak.de
       - Label: Github
         Link: https://github.com/raydak-labs/configarr
+
+  - Name: Automation Guidance
+    Scope: OpenSource
+    Description: Setting up automation and virtualization for customers to simply different use cases from home automation to multi container stacks with Proxmox and OpenStack. Inside those Kubernetes usage with different flavours like K3s, OpenShift and Talos.
 
   - Name: Engilada - Crypto transaction provider (discontinued)
     Scope: raydak-labs
