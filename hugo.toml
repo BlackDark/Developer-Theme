@@ -2,9 +2,9 @@ enableRobotsTXT = true
 enableEmoji = true
 
 theme = "blackdark-developer-theme"
-disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+disableKinds = ["page", "section", "taxonomy", "term", "rss", "sitemap"]
 
-baseURL = "https://eduard-marbach.de/resume"
+baseURL = "https://eduard-marbach.de/cv-old"
 title = "Eduard Marbach - CV"
 #googleAnalytics = ""
 
