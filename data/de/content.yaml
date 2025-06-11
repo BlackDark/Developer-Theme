@@ -48,11 +48,32 @@ Experience:
             "Vercel",
           ]
 
+  - Employer: DB Systel
+    Place: Frankfurt, DE
+    Positions:
+      - Title: Cloud Architekt & Principal Developer
+        Date: 02/2025 - Heute
+        Details:
+          - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi)
+          - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
+          - Modernisierung des bestehenden Python-Codes mit Toolings wie uv, um ihn einfach testbar, ausführbar und releasbar zu machen
+        Badges:
+          [
+            "Pulumi",
+            "Kubernetes",
+            "Python",
+            "DevOps",
+            "Cloud",
+            "AWS",
+            "Container",
+            "IaC",
+          ]
+
   - Employer: CRBN AI
     Place: USA
     Positions:
       - Title: Co-Leiter Engineering
-        Date: 06/2023 - Heute
+        Date: 06/2023 - 12/2024
         Details:
           - KI-Lösung für die Interaktion mit einer großen Menge an Dokumenten in einem einfachen und sicheren Ansatz
           - Automatisierte Verarbeitung großer Datensammlungen
