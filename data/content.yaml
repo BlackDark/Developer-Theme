@@ -57,6 +57,7 @@ Experience:
           - Setup, Modernization and movement to unified Infrastructure as Code (pulumi)
           - Migration of existing python applications stacks on lambda back to container based in a kubernetes environment
           - Modernize the existing python code with toolings like uv and make it easy testable, runnable and releasable
+          - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, Loki for the Python application
         Badges:
           [
             "Pulumi",
@@ -67,6 +68,11 @@ Experience:
             "AWS",
             "Containers",
             "IaC",
+            "OpenTelemetry",
+            "Grafana",
+            "Tempo",
+            "Prometheus",
+            "Loki",
           ]
 
   - Employer: CRBN AI
@@ -299,6 +305,13 @@ Skills:
       - Cloudflare Workers
       - Proxmox
       - Opnsense
+  - Family: Monitoring & Observability
+    Items:
+      - OpenTelemetry
+      - Grafana
+      - Loki
+      - Prometheus
+      - Tempo
 
 Languages:
   - Name: German

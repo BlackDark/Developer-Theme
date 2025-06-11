@@ -57,6 +57,7 @@ Experience:
           - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi)
           - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
           - Modernisierung des bestehenden Python-Codes mit Toolings wie uv, um ihn einfach testbar, ausführbar und releasbar zu machen
+          - Einführung und Umsetzung des vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki für die Python-Anwendung
         Badges:
           [
             "Pulumi",
@@ -92,6 +93,11 @@ Experience:
             "Supabase",
             "TypeScript",
             "Vercel",
+            "OpenTelemetry",
+            "Grafana",
+            "Tempo",
+            "Prometheus",
+            "Loki",
           ]
 
   - Employer: raydak GmbH
@@ -140,6 +146,11 @@ Experience:
             "Network",
             "Python",
             "Terraform",
+            "OpenTelemetry",
+            "Grafana",
+            "Tempo",
+            "Prometheus",
+            "Loki",
           ]
 
   - Employer: Mercedes-Benz AG
@@ -299,6 +310,13 @@ Skills:
       - Cloudflare Workers
       - Proxmox
       - Opnsense
+  - Family: Monitoring & Observability
+    Items:
+      - OpenTelemetry
+      - Grafana
+      - Loki
+      - Prometheus
+      - Tempo
 
 Languages:
   - Name: Deutsch
