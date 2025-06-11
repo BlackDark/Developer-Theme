@@ -5,9 +5,9 @@ enableRobotsTXT = true
 enableEmoji = true
 
 theme = "almeida-cv"
-disableKinds = ["page", "section", "taxonomy", "term", "RSS", "sitemap"]
+disableKinds = ["page", "section", "taxonomy", "term", "rss", "sitemap"]
 
-baseURL = "https://eduard-marbach.de/cv-new"
+baseURL = "https://eduard-marbach.de/cv"
 title = "Eduard Marbach - CV"
 #googleAnalytics = ""
 
