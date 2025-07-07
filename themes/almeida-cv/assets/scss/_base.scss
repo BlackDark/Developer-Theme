@@ -28,7 +28,8 @@ html {
     }
     @media print {
         margin: 0;
-        height: paper_height($page-width) * $pages;
+        // height: paper_height($page-width) * $pages;
+        height: auto;
     }
 }
 
