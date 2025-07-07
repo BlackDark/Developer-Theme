@@ -68,6 +68,11 @@ Experience:
             "AWS",
             "Container",
             "IaC",
+            "OpenTelemetry",
+            "Grafana",
+            "Tempo",
+            "Prometheus",
+            "Loki",
           ]
 
   - Employer: CRBN AI
@@ -146,11 +151,6 @@ Experience:
             "Network",
             "Python",
             "Terraform",
-            "OpenTelemetry",
-            "Grafana",
-            "Tempo",
-            "Prometheus",
-            "Loki",
           ]
 
   - Employer: Mercedes-Benz AG
