@@ -15,6 +15,8 @@ BasicInfo:
       Info: <a class="contact__link" href="https://linkedin.com/in/eduard-marbach-716445134" target="_blank">LinkedIn</a>
     - Icon: fab fa-github
       Info: <a class="contact__link" href="https://github.com/BlackDark" target="_blank">GitHub</a>
+    - Icon: fab fa-certificate
+      Info: <a class="contact__link" href="https://www.credly.com/users/eduard-marbach/badges" target="_blank">Credly (Certificates)</a>
 
 Profile: |
   Cloud Architekt & DevOps Engineer mit umfangreicher Erfahrung in Softwareentwicklung und Cloud-Technologien (Erfahrung 10+ Jahre). 
@@ -328,7 +330,7 @@ Languages:
 
 Diplomas:
   - Kubernetes Administrator (Planned 2025)
-  - Kubernetes Application Developer (Planned 2025)
+  - Certified Kubernetes Application Developer (08/2025)
   - AWS Certified Solutions Architect – Professional (2022)
   - AWS Solution Architect Associate (2022)
   - Cloud Engineering with Google Cloud Specialization (2020)
