@@ -23,6 +23,7 @@ Profile: |
   Aktuell Gründer der raydak GmbH, spezialisiert auf professionelle Cloud-Architektur und Beratung, insbesondere mit AWS. 
   Erfahren in der Implementierung moderner Technologie-Stacks, Containerisierung und Automatisierungslösungen. 
   Fundierter Hintergrund in Full-Stack-Entwicklung und DevOps-Praktiken, mit Expertise in Kubernetes, Docker und verschiedenen Cloud-Plattformen.
+  Darüber hinaus setze ich gerne verschiedene AI-Tools ein, um den Codierungsprozess zu beschleunigen und die Effizienz zu verbessern, während ich die Ergebnisse auf bewährte Praktiken überprüfe.
   Als Abschluss trage ich gerne zu OpenSource Projekten bei und bin immer auf der Suche nach neuen Herausforderungen!
 
 Experience:
@@ -36,6 +37,7 @@ Experience:
           - Workshops und Beratung
           - Softwareentwicklung mit modernen Technologie-Stacks
           - OpenSource/Community Projekte und Support
+          - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot, ChatGPT, Claude Code, Gemini, Jules, ...
         Badges:
           [
             "AWS",
@@ -48,6 +50,7 @@ Experience:
             "Remix",
             "TypeScript",
             "Vercel",
+            "AI Tools",
           ]
 
   - Employer: DB Systel
@@ -60,6 +63,7 @@ Experience:
           - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
           - Modernisierung des bestehenden Python-Codes mit Toolings wie uv, um ihn einfach testbar, ausführbar und releasbar zu machen
           - Einführung und Umsetzung des vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki für die Python-Anwendung
+          - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot + Agents
         Badges:
           [
             "Pulumi",
@@ -75,6 +79,7 @@ Experience:
             "Tempo",
             "Prometheus",
             "Loki",
+            "AI Tools",
           ]
 
   - Employer: CRBN AI
@@ -129,6 +134,7 @@ Experience:
             "Postgres",
             "Remix",
             "Typescript",
+            "Copilot",
           ]
 
   - Employer: DB Systel
@@ -312,6 +318,7 @@ Skills:
       - Cloudflare Workers
       - Proxmox
       - Opnsense
+      - AI Toolings
   - Family: Monitoring & Observability
     Items:
       - OpenTelemetry
