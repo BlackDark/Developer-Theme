@@ -51,6 +51,7 @@ Experience:
             "TypeScript",
             "Vercel",
             "AI Tools",
+            "Go",
           ]
 
   - Employer: DB Systel
@@ -288,6 +289,7 @@ Skills:
       - Java/Kotlin
       - NodeJS
       - Python
+      - Go
   - Family: DevOps & Cloud
     Items:
       - AWS
@@ -351,6 +353,13 @@ Projects:
     Links:
       - Label: VisualDataWeb
         Link: https://github.com/VisualDataWeb
+
+  - Name: Different projects
+    Scope: raydak-labs
+    Description: Monitoring tools like Turbostat Exporter with Go, Pulumi Providers in Go
+    Links:
+      - Label: github.com
+        Link: https://github.com/BlackDark
 
   - Name: AIfred
     Scope: raydak-labs
