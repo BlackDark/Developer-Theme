@@ -52,6 +52,7 @@ Experience:
             "Vercel",
             "AI Tools",
             "Go",
+            "Pulumi",
           ]
 
   - Employer: DB Systel
@@ -60,9 +61,10 @@ Experience:
       - Title: Cloud Architect & Principal Developer
         Date: 02/2025 - 08/2025
         Details:
-          - Setup, Modernization and movement to unified Infrastructure as Code (pulumi)
+          - Setup, Modernization and movement to unified Infrastructure as Code (pulumi) in AWS + Kubernetes
           - Migration of existing python applications stacks on lambda back to container based in a kubernetes environment
           - Modernize the existing python code with toolings like uv and make it easy testable, runnable and releasable
+          - Integrating different Networking Systems including deep dive in VitalQIP, different networking solutions like Cisco, Aruba and more and integrating in a Network Source of Truth Nautbot or Netbox
           - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, Loki for the Python application
           - AI-supported solutions and implementations such as AI agents and toolings - Github Copilot + Agents
         Badges:
@@ -72,6 +74,9 @@ Experience:
             "Python",
             "DevOps",
             "Cloud",
+            "QIP",
+            "Nautobot",
+            "Network",
             "AWS",
             "Containers",
             "IaC",
@@ -90,8 +95,8 @@ Experience:
         Date: 06/2023 - 12/2024
         Details:
           - AI Solution for interaction with a vast amount of documents in a easy and secure approach
-          - Autotmated processing of big data collections
-          - Cloud Setup & Deployment, IaC, DevOps, Security
+          - Automated processing of big data collections
+          - Cloud Setup & Deployment, IaC, DevOps, Security with Pulumi
           - Enterprise Architecture and Security focused integration of tools and AI
         Badges:
           [
@@ -144,6 +149,7 @@ Experience:
           - Responsible for full automation and rollout
           - Implementation of different network automation requirements based on Cisco, BGP, IPAM, ...
           - Implementation of different monitoring solutions for distributing, managing and securing the application landscape
+          - Using networking tools like QIP, Nautobot, Netbox and more for complete automation setups
         Badges:
           [
             "AWS",
@@ -151,6 +157,8 @@ Experience:
             "DevOps",
             "Docker",
             "Gitlab",
+            "QIP",
+            "Netbox/Nautobot",
             "Kubernetes",
             "Network",
             "Python",

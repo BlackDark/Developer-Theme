@@ -60,9 +60,10 @@ Experience:
       - Title: Cloud Architekt & Principal Developer
         Date: 02/2025 - Heute
         Details:
-          - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi)
+          - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi) in AWS + Kubernetes
           - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
           - Modernisierung des bestehenden Python-Codes mit Toolings wie uv, um ihn einfach testbar, ausführbar und releasbar zu machen
+          - Integration verschiedener Netzwerksysteme, einschließlich einer tiefen Einarbeitung in VitalQIP, verschiedene Netzwerklösungen wie Cisco, Aruba und mehr sowie die Integration in eine Network Source of Truth Nautobot oder Netbox
           - Einführung und Umsetzung des vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki für die Python-Anwendung
           - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot + Agents
         Badges:
@@ -72,6 +73,9 @@ Experience:
             "Python",
             "DevOps",
             "Cloud",
+            "QIP",
+            "Nautobot",
+            "Network",
             "AWS",
             "Container",
             "IaC",
@@ -91,7 +95,7 @@ Experience:
         Details:
           - KI-Lösung für die Interaktion mit einer großen Menge an Dokumenten in einem einfachen und sicheren Ansatz
           - Automatisierte Verarbeitung großer Datensammlungen
-          - Cloud-Setup & Deployment, IaC, DevOps, Sicherheit
+          - Cloud-Setup & Deployment, IaC, DevOps, Sicherheit mit Pulumi
           - Enterprise Architektur mit Fokus auf Sicherheit bei Integration von Tools und AI
         Badges:
           [
@@ -149,6 +153,7 @@ Experience:
           - Verantwortlich für vollständige Automatisierung und Ausrollung
           - Implementierung mehrerer Automatisierungen basierend auf Komponenten wie Cisco, BGP, IPAM, ...
           - Implementierung verschiedener Monitoring-Lösungen zur Verteilung, Verwaltung und Sicherung der Anwendungslandschaft
+          - Integration von verschiedenen Netzwerksystemen, einschließlich einer tiefen Einarbeitung in VitalQIP, verschiedene Netzwerklösungen wie Cisco, Aruba und mehr sowie die Integration in eine Network Source of Truth Nautobot oder Netbox
         Badges:
           [
             "AWS",
@@ -156,6 +161,8 @@ Experience:
             "DevOps",
             "Docker",
             "Gitlab",
+            "QIP",
+            "Netbox/Nautobot",
             "Kubernetes",
             "Network",
             "Python",
