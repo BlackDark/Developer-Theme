@@ -55,6 +55,30 @@ Experience:
             "Pulumi",
           ]
 
+  - Employer: Synava (Medavis, InformMe)
+    Place: München, DE
+    Positions:
+      - Title: SRE Engineer & Cloud Architect
+        Date: 09/2025 - Present
+        Details:
+          - Synchronize cloud setup across multiple stake holders
+          - Implement best practices for cloud security and compliance
+          - Optimize resilience and performance of cloud infrastructure
+        Badges:
+          [
+            "AWS",
+            "Cloud",
+            "Containers",
+            "DevOps",
+            "Grafana",
+            "IaC",
+            "Kubernetes",
+            "OpenTelemetry",
+            "Prometheus",
+            "Pulumi",
+            "Terraform",
+          ]
+
   - Employer: DB Systel
     Place: Frankfurt, DE
     Positions:
@@ -171,8 +195,8 @@ Experience:
       - Title: Cloud Architect & DevOps
         Date: 10/2019 - 04/2023
         Details:
-          - Complete AWS setup, deployment and maintenance for teams/products
-          - Full Setup of Cloud Network Setup with OnPremise
+          - Complete AWS setup, deployment and maintenance for teams/products (Kubernetes - EKS, static IPs, HTTP/TCP, RDS, Cache, ...)
+          - Complete setup of the cloud network with OnPremise (IPAM, DNS) - Forwarding for address ranges + DNS to AWS and management with Route53, resolvers, VPC, RouteTable, TransitGateway, IP pinning ...
           - Full development of KPI dashboard for global IT
           - Development on MO360-FTK (Microfrontend Framework)
           - Project Lead & Development - Tool collection application
@@ -185,7 +209,9 @@ Experience:
             "AWS",
             "Azure DevOps",
             "DevOps",
+            "DNS",
             "Docker",
+            "IPAM",
             "Kubernetes",
             "Network",
             "NodeJS",
@@ -193,6 +219,7 @@ Experience:
             "Terraform",
             "TypeScript",
           ]
+
       - Title: Software Developer (Production)
         Date: 06/2018 - 09/2019
         Details:

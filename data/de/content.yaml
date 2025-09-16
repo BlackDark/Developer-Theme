@@ -54,11 +54,35 @@ Experience:
             "Go",
           ]
 
+  - Employer: Synava (Medavis, InformMe)
+    Place: München, DE
+    Positions:
+      - Title: SRE Engineer & Cloud Architect
+        Date: 09/2025 - Heute
+        Details:
+          - Synchronisieren Sie die Cloud-Einrichtung über mehrere Interessengruppen hinweg
+          - Implementieren Sie Best Practices für Cloud-Sicherheit und Compliance
+          - Optimieren Sie die Ausfallsicherheit und Leistung der Cloud-Infrastruktur
+        Badges:
+          [
+            "AWS",
+            "Cloud",
+            "Containers",
+            "DevOps",
+            "Grafana",
+            "IaC",
+            "Kubernetes",
+            "OpenTelemetry",
+            "Prometheus",
+            "Pulumi",
+            "Terraform",
+          ]
+
   - Employer: DB Systel
     Place: Frankfurt, DE
     Positions:
       - Title: Cloud Architekt & Principal Developer
-        Date: 02/2025 - Heute
+        Date: 02/2025 - 08/2025
         Details:
           - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi) in AWS + Kubernetes
           - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
@@ -175,8 +199,8 @@ Experience:
       - Title: Cloud Architekt & DevOps
         Date: 10/2019 - 04/2023
         Details:
-          - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte
-          - Kompletter Aufbau des Cloud Netzwerks mit OnPremise
+          - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte (Kubernetes - EKS, static IPs, HTTP/TCP, RDS, Cache, ...)
+          - Kompletter Aufbau des Cloud Netzwerks mit OnPremise (IPAM, DNS) - Forwarding für Adressbereiche + DNS zu AWS und Verwaltung mit Route53, Resolvern, VPC, RouteTable, TransitGateway, IP pinning ...
           - Vollständige Entwicklung des KPI-Dashboards für globale IT
           - Entwicklung an MO360-FTK (Microfrontend Framework)
           - Projektleitung & Entwicklung - Tool-Sammlungsanwendung
@@ -189,7 +213,9 @@ Experience:
             "AWS",
             "Azure DevOps",
             "DevOps",
+            "DNS",
             "Docker",
+            "IPAM",
             "Kubernetes",
             "Network",
             "NodeJS",
@@ -197,6 +223,7 @@ Experience:
             "Terraform",
             "TypeScript",
           ]
+
       - Title: Softwareentwickler (Production)
         Date: 06/2018 - 09/2019
         Details:
