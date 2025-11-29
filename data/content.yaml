@@ -61,9 +61,9 @@ Experience:
       - Title: SRE Engineer & Principal Developer
         Date: 10/2025 - Present
         Details:
-          - Developing of multiple applications in Lead and coordinate with different teams
+          - Python development and modernization of multiple applications in Lead role
           - Improvement and extend existing applications and improve resilience and stability
-          - Automation of multiple OpenShift Clusters
+          - Automation of multiple OpenShift Clusters with Pulumi
         Badges:
           [
             "Pulumi",
@@ -83,10 +83,9 @@ Experience:
       - Title: SRE Engineer & Cloud Architect
         Date: 09/2025 - Present
         Details:
+          - TypeScript/Bun backend development and API optimization
           - Synchronize cloud setup across multiple stake holders
           - Implement best practices for cloud security and compliance
-          - Optimize resilience and performance of applications
-          - Implementation and improvement of existing code base
           - Setup of full monitoring and tracing stack with OpenTelemetry, Grafana, Loki, Prometheus, Tempo
         Badges:
           [
@@ -111,12 +110,11 @@ Experience:
       - Title: Cloud Architect & Principal Developer
         Date: 02/2025 - 08/2025
         Details:
+          - Python application development with modern tooling (uv, pytest) and migration from Lambda to Kubernetes
           - Setup, Modernization and movement to unified Infrastructure as Code (pulumi) in AWS + Kubernetes
-          - Migration of existing python applications stacks on lambda back to container based in a kubernetes environment
-          - Modernize the existing python code with toolings like uv and make it easy testable, runnable and releasable
           - Integrating different Networking Systems including deep dive in VitalQIP, different networking solutions like Cisco, Aruba and more and integrating in a Network Source of Truth Nautbot or Netbox
           - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, Loki for the Python application
-          - AI-supported solutions and implementations such as AI agents and toolings - Github Copilot + Agents
+          - AI-supported development with Github Copilot and AI Agents
         Badges:
           [
             "Pulumi",
@@ -144,10 +142,10 @@ Experience:
       - Title: Co-Head of Engineering
         Date: 06/2023 - 12/2024
         Details:
+          - Fullstack development with React/TypeScript and backend integration with AI/LLM services
           - AI Solution for interaction with a vast amount of documents in a easy and secure approach
-          - Automated processing of big data collections
           - Cloud Setup & Deployment, IaC, DevOps, Security with Pulumi
-          - Enterprise Architecture and Security focused integration of tools and AI
+          - Enterprise Architecture and Security focused integration
         Badges:
           [
             "AI",
@@ -169,9 +167,7 @@ Experience:
       - Title: Cloud Architect
         Date: 10/2024 - Present
         Details:
-          - Development of AI Replyer for Freelancers - AIFred
-          - Development of media configuration tool - Configarr
-          - Strategic decision for future of OpenSource organization - VisualDataWeb
+          - Fullstack development with Remix/TypeScript for AIFred and Configarr applications
           - Automation of every Cloud resource, Testing and Deployment including Community interaction
           - Server automation with Proxmox, OpenStack combined with K3s for Kubernetes
         Badges:
@@ -194,12 +190,11 @@ Experience:
       - Title: Cloud Architect
         Date: 01/2023 - 10/2024
         Details:
+          - Python development for network automation and integration systems
           - Modernizing Deutsche Bahn's future network infrastructure, based on Kubernetes
           - Responsible for designing and setting up the cloud architecture in AWS
           - Responsible for full automation and rollout
-          - Implementation of different network automation requirements based on Cisco, BGP, IPAM, ...
           - Implementation of different monitoring solutions for distributing, managing and securing the application landscape
-          - Using networking tools like QIP, Nautobot, Netbox and more for complete automation setups
         Badges:
           [
             "AWS",
@@ -221,14 +216,12 @@ Experience:
       - Title: Cloud Architect & DevOps
         Date: 10/2019 - 04/2023
         Details:
-          - Complete AWS setup, deployment and maintenance for teams/products (Kubernetes - EKS, static IPs, HTTP/TCP, RDS, Cache, ...)
-          - Complete setup of the cloud network with OnPremise (IPAM, DNS) - Forwarding for address ranges + DNS to AWS and management with Route53, resolvers, VPC, RouteTable, TransitGateway, IP pinning ...
-          - Full development of KPI dashboard for global IT
+          - Full development of KPI dashboard for global IT with React/TypeScript
           - Development on MO360-FTK (Microfrontend Framework)
           - Project Lead & Development - Tool collection application
-          - DevOps strategy and training with Azure DevOps
+          - Complete AWS setup, deployment and maintenance for teams/products (Kubernetes - EKS, RDS, Cache, ...)
+          - Complete setup of the cloud network with OnPremise (IPAM, DNS)
           - Fully automated CI/CD & IaC with Terraform for AWS
-          - Experimental setups with OpenStack and OpenShift
         Badges:
           [
             "Architecture",

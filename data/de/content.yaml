@@ -59,11 +59,11 @@ Experience:
     Place: Frankfurt, DE
     Positions:
       - Title: SRE Engineer & Principal Developer
-        Date: 10/2025 - Present
+        Date: 10/2025 - Heute
         Details:
-          - Entwicklung mehrerer Anwendungen in Führung und Koordination mit verschiedenen Teams
+          - Python-Entwicklung und Modernisierung mehrerer Anwendungen in Führungsrolle
           - Verbesserung und Erweiterung bestehender Anwendungen sowie Verbesserung der Ausfallsicherheit und Stabilität
-          - Automatisierung mehrerer OpenShift Cluster
+          - Automatisierung mehrerer OpenShift Cluster mit Pulumi
         Badges:
           [
             "Pulumi",
@@ -83,10 +83,9 @@ Experience:
       - Title: SRE Engineer & Cloud Architect
         Date: 09/2025 - Heute
         Details:
+          - TypeScript/Bun Backend-Entwicklung und API-Optimierung
           - Synchronisierung der Cloud-Einrichtung über mehrere Interessengruppen hinweg
           - Implementierung von Best Practices für Cloud-Sicherheit und Compliance
-          - Optimierung der Ausfallsicherheit und Leistung von Anwendungen
-          - Implementierung und Verbesserung bestehender Code-Basis
           - Aufbau eines vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki, Prometheus, Tempo
         Badges:
           [
@@ -111,12 +110,11 @@ Experience:
       - Title: Cloud Architekt & Principal Developer
         Date: 02/2025 - 08/2025
         Details:
+          - Python-Anwendungsentwicklung mit modernem Tooling (uv, pytest) und Migration von Lambda zu Kubernetes
           - Aufbau, Modernisierung und Umstellung auf eine einheitliche Infrastructure as Code (Pulumi) in AWS + Kubernetes
-          - Migration bestehender Python-Anwendungs-Stacks von Lambda zurück in eine containerbasierte Kubernetes-Umgebung
-          - Modernisierung des bestehenden Python-Codes mit Toolings wie uv, um ihn einfach testbar, ausführbar und releasbar zu machen
           - Integration verschiedener Netzwerksysteme, einschließlich einer tiefen Einarbeitung in VitalQIP, verschiedene Netzwerklösungen wie Cisco, Aruba und mehr sowie die Integration in eine Network Source of Truth Nautobot oder Netbox
           - Einführung und Umsetzung des vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki für die Python-Anwendung
-          - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot + Agents
+          - AI-gestützte Entwicklung mit Github Copilot und AI Agents
         Badges:
           [
             "Pulumi",
@@ -144,10 +142,10 @@ Experience:
       - Title: Co-Leiter Engineering
         Date: 06/2023 - 12/2024
         Details:
+          - Fullstack-Entwicklung mit React/TypeScript und Backend-Integration mit AI/LLM Services
           - KI-Lösung für die Interaktion mit einer großen Menge an Dokumenten in einem einfachen und sicheren Ansatz
-          - Automatisierte Verarbeitung großer Datensammlungen
           - Cloud-Setup & Deployment, IaC, DevOps, Sicherheit mit Pulumi
-          - Enterprise Architektur mit Fokus auf Sicherheit bei Integration von Tools und AI
+          - Enterprise Architektur mit Fokus auf Sicherheit bei Integration
         Badges:
           [
             "AI",
@@ -174,9 +172,7 @@ Experience:
       - Title: Cloud Architekt
         Date: 10/2024 - Heute
         Details:
-          - Entwicklung eines KI Antwort Generators - AIFred
-          - Entwicklung einer Media Konfigurations ANwendung - Configarr
-          - Strategische Entscheidung über die Organisation - VisualDataWeb
+          - Fullstack-Entwicklung mit Remix/TypeScript für AIFred und Configarr Anwendungen
           - Automatisierung aller Prozesse wie Cloud, Testing und Deployment (mit Community Integrationen)
           - Server Automatisierung mit Proxmox, OpenStack und für Kubernetes K3s
         Badges:
@@ -199,12 +195,11 @@ Experience:
       - Title: Cloud Architekt
         Date: 01/2023 - 10/2024
         Details:
+          - Python-Entwicklung für Netzwerkautomatisierung und Integrationssysteme
           - Modernisierung der zukünftigen Netzwerkinfrastruktur der Deutschen Bahn, basierend auf Kubernetes
           - Verantwortlich für Design und Aufbau der Cloud-Architektur in AWS
           - Verantwortlich für vollständige Automatisierung und Ausrollung
-          - Implementierung mehrerer Automatisierungen basierend auf Komponenten wie Cisco, BGP, IPAM, ...
           - Implementierung verschiedener Monitoring-Lösungen zur Verteilung, Verwaltung und Sicherung der Anwendungslandschaft
-          - Integration von verschiedenen Netzwerksystemen, einschließlich einer tiefen Einarbeitung in VitalQIP, verschiedene Netzwerklösungen wie Cisco, Aruba und mehr sowie die Integration in eine Network Source of Truth Nautobot oder Netbox
         Badges:
           [
             "AWS",
@@ -226,14 +221,12 @@ Experience:
       - Title: Cloud Architekt & DevOps
         Date: 10/2019 - 04/2023
         Details:
-          - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte (Kubernetes - EKS, static IPs, HTTP/TCP, RDS, Cache, ...)
-          - Kompletter Aufbau des Cloud Netzwerks mit OnPremise (IPAM, DNS) - Forwarding für Adressbereiche + DNS zu AWS und Verwaltung mit Route53, Resolvern, VPC, RouteTable, TransitGateway, IP pinning ...
-          - Vollständige Entwicklung des KPI-Dashboards für globale IT
+          - Vollständige Entwicklung des KPI-Dashboards für globale IT mit React/TypeScript
           - Entwicklung an MO360-FTK (Microfrontend Framework)
           - Projektleitung & Entwicklung - Tool-Sammlungsanwendung
-          - DevOps-Strategie und Training mit Azure DevOps
+          - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte (Kubernetes - EKS, RDS, Cache, ...)
+          - Kompletter Aufbau des Cloud Netzwerks mit OnPremise (IPAM, DNS)
           - Vollautomatisiertes CI/CD & IaC mit Terraform für AWS
-          - Experimentelle Setups mit OpenStack und OpenShift
         Badges:
           [
             "Architecture",
