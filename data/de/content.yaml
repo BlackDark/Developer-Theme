@@ -52,6 +52,29 @@ Experience:
             "Vercel",
             "AI Tools",
             "Go",
+            "Pulumi",
+          ]
+
+  - Employer: DB Systel
+    Place: Frankfurt, DE
+    Positions:
+      - Title: SRE Engineer & Principal Developer
+        Date: 10/2025 - Present
+        Details:
+          - Entwicklung mehrerer Anwendungen in Führung und Koordination mit verschiedenen Teams
+          - Verbesserung und Erweiterung bestehender Anwendungen sowie Verbesserung der Ausfallsicherheit und Stabilität
+          - Automatisierung mehrerer OpenShift Cluster
+        Badges:
+          [
+            "Pulumi",
+            "Kubernetes",
+            "Python",
+            "DevOps",
+            "OpenShift",
+            "QIP",
+            "Nautobot",
+            "AWS",
+            "OpenTelemetry",
           ]
 
   - Employer: Synava (Medavis, InformMe)
@@ -60,9 +83,11 @@ Experience:
       - Title: SRE Engineer & Cloud Architect
         Date: 09/2025 - Heute
         Details:
-          - Synchronisieren Sie die Cloud-Einrichtung über mehrere Interessengruppen hinweg
-          - Implementieren Sie Best Practices für Cloud-Sicherheit und Compliance
-          - Optimieren Sie die Ausfallsicherheit und Leistung der Cloud-Infrastruktur
+          - Synchronisierung der Cloud-Einrichtung über mehrere Interessengruppen hinweg
+          - Implementierung von Best Practices für Cloud-Sicherheit und Compliance
+          - Optimierung der Ausfallsicherheit und Leistung von Anwendungen
+          - Implementierung und Verbesserung bestehender Code-Basis
+          - Aufbau eines vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki, Prometheus, Tempo
         Badges:
           [
             "AWS",
@@ -76,6 +101,8 @@ Experience:
             "Prometheus",
             "Pulumi",
             "Terraform",
+            "Bun",
+            "TypeScript",
           ]
 
   - Employer: DB Systel

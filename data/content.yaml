@@ -55,6 +55,28 @@ Experience:
             "Pulumi",
           ]
 
+  - Employer: DB Systel
+    Place: Frankfurt, DE
+    Positions:
+      - Title: SRE Engineer & Principal Developer
+        Date: 10/2025 - Present
+        Details:
+          - Developing of multiple applications in Lead and coordinate with different teams
+          - Improvement and extend existing applications and improve resilience and stability
+          - Automation of multiple OpenShift Clusters
+        Badges:
+          [
+            "Pulumi",
+            "Kubernetes",
+            "Python",
+            "DevOps",
+            "OpenShift",
+            "QIP",
+            "Nautobot",
+            "AWS",
+            "OpenTelemetry",
+          ]
+
   - Employer: Synava (Medavis, InformMe)
     Place: München, DE
     Positions:
@@ -63,7 +85,9 @@ Experience:
         Details:
           - Synchronize cloud setup across multiple stake holders
           - Implement best practices for cloud security and compliance
-          - Optimize resilience and performance of cloud infrastructure
+          - Optimize resilience and performance of applications
+          - Implementation and improvement of existing code base
+          - Setup of full monitoring and tracing stack with OpenTelemetry, Grafana, Loki, Prometheus, Tempo
         Badges:
           [
             "AWS",
@@ -77,6 +101,8 @@ Experience:
             "Prometheus",
             "Pulumi",
             "Terraform",
+            "Bun",
+            "TypeScript",
           ]
 
   - Employer: DB Systel
