@@ -19,12 +19,12 @@ BasicInfo:
       Info: <a class="contact__link" href="https://www.credly.com/users/eduard-marbach/badges" target="_blank">Credly (Certificates)</a>
 
 Profile: |
-  Cloud Architect & DevOps Engineer with extensive experience in software development and cloud technologies (10+ years experience). 
-  Currently founder at raydak GmbH, focusing on professional cloud architecture and consulting, particularly with AWS. 
+  Cloud Architect & DevOps Engineer with extensive experience in software development and cloud technologies (10+ years). 
+  Founder of raydak GmbH, specializing in professional cloud architecture and consulting, particularly with AWS. 
   Experienced in implementing modern technology stacks, containerization, and automation solutions. 
   Strong background in full-stack development and DevOps practices, with expertise in Kubernetes, Docker, and various cloud platforms.
-  Utilizing different AI toolings to speed up coding processes and improve efficiency while reviewing output for best practices.
-  Last but not least having fun with OpenSource projects and community work!
+  I use AI tools to accelerate coding and improve efficiency while validating outputs against established practices.
+  I contribute to open-source projects and welcome new challenges.
 
 Experience:
   - Employer: raydak GmbH
@@ -33,11 +33,12 @@ Experience:
       - Title: Founder
         Date: 01/2022 - Present
         Details:
-          - Professional architecting and consulting with Cloud environments (especially AWS)
+          - Professional architecture and consulting for cloud environments (especially AWS)
           - Workshops and consulting
-          - Software engineering with modern stacks
-          - OpenSource/Community projects and support
-          - AI-supported solutions and implementations such as AI agents and toolings - Github Copilot, ChatGPT, Claude Code, Gemini, Jules, ...
+          - Software development with modern technology stacks
+          - Open-source and community projects and support
+          - AI-supported solutions and implementations such as AI agents and tooling — GitHub Copilot, ChatGPT, Claude Code, Opencode, Pi, Gemini, ...
+          - Templates for AI-assisted development such as MCPs, skills, agents, ...
         Badges:
           [
             "AWS",
@@ -53,17 +54,35 @@ Experience:
             "AI Tools",
             "Go",
             "Pulumi",
+            "Opencode",
           ]
+
+  - Employer: OpenSource
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Open-source contributor
+        Date: 01/2020 - Present
+        Details:
+          - Configarr — a synchronization tool for media stacks
+          - VisualDataWeb — took over the GitHub organization for VisualDataWeb
+          - Travo — software for OpenWRT routers to manage network connections, firewall, and related functions
+          - Blog on various topics (including DevOps, cloud, automation)
+          - Contributing to various projects such as Pulumi, OpenEBS, ...
+        Badges: ["AI", "Cloud", "Too much"]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
     Positions:
-      - Title: SRE Engineer & Principal Developer
+      - Title: Principal Developer & AI Expert
         Date: 10/2025 - Present
         Details:
-          - Python development and modernization of multiple applications in Lead role
-          - Improvement and extend existing applications and improve resilience and stability
-          - Automation of multiple OpenShift Clusters with Pulumi
+          - Python development and modernization of multiple applications in a lead role
+          - Improving and extending existing applications; improving resilience and stability
+          - Automation of multiple OpenShift clusters with Pulumi
+          - Implementing AI-supported solutions to improve application performance and user experience
+          - Training and rolling out AI tools for the team to increase efficiency and speed up development
+          - Tools such as GitHub Copilot, Claude Code, Opencode, Pi
+          - Preparing templates such as skills, MCPs, and tailored agents
         Badges:
           [
             "Pulumi",
@@ -81,12 +100,13 @@ Experience:
     Place: München, DE
     Positions:
       - Title: SRE Engineer & Cloud Architect
-        Date: 09/2025 - Present
+        Date: 09/2025 - 02/2026
         Details:
           - TypeScript/Bun backend development and API optimization
-          - Synchronize cloud setup across multiple stake holders
-          - Implement best practices for cloud security and compliance
-          - Setup of full monitoring and tracing stack with OpenTelemetry, Grafana, Loki, Prometheus, Tempo
+          - Aligning cloud setup across stakeholder groups
+          - Implementing best practices for cloud security and compliance
+          - Building a full monitoring and tracing stack with OpenTelemetry, Grafana, Loki, Prometheus, Tempo
+          - AI-assisted development with GitHub Copilot and AI agents
         Badges:
           [
             "AWS",
@@ -111,10 +131,10 @@ Experience:
         Date: 02/2025 - 08/2025
         Details:
           - Python application development with modern tooling (uv, pytest) and migration from Lambda to Kubernetes
-          - Setup, Modernization and movement to unified Infrastructure as Code (pulumi) in AWS + Kubernetes
-          - Integrating different Networking Systems including deep dive in VitalQIP, different networking solutions like Cisco, Aruba and more and integrating in a Network Source of Truth Nautbot or Netbox
-          - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, Loki for the Python application
-          - AI-supported development with Github Copilot and AI Agents
+          - Building, modernizing, and consolidating on unified Infrastructure as Code (Pulumi) in AWS and Kubernetes
+          - Integrating different networking systems, including deep work on VitalQIP and solutions such as Cisco and Aruba, integrated into a network source of truth (Nautobot or NetBox)
+          - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, and Loki for the Python application
+          - AI-assisted development with GitHub Copilot and AI agents
         Badges:
           [
             "Pulumi",
@@ -126,7 +146,7 @@ Experience:
             "Nautobot",
             "Network",
             "AWS",
-            "Containers",
+            "Container",
             "IaC",
             "OpenTelemetry",
             "Grafana",
@@ -143,9 +163,9 @@ Experience:
         Date: 06/2023 - 12/2024
         Details:
           - Fullstack development with React/TypeScript and backend integration with AI/LLM services
-          - AI Solution for interaction with a vast amount of documents in a easy and secure approach
-          - Cloud Setup & Deployment, IaC, DevOps, Security with Pulumi
-          - Enterprise Architecture and Security focused integration
+          - AI solution for interacting with large document volumes in a simple and secure way
+          - Cloud setup & deployment, IaC, DevOps, security with Pulumi
+          - Enterprise architecture with a focus on secure integration
         Badges:
           [
             "AI",
@@ -159,6 +179,11 @@ Experience:
             "Supabase",
             "TypeScript",
             "Vercel",
+            "OpenTelemetry",
+            "Grafana",
+            "Tempo",
+            "Prometheus",
+            "Loki",
           ]
 
   - Employer: raydak GmbH
@@ -167,9 +192,9 @@ Experience:
       - Title: Cloud Architect
         Date: 10/2024 - Present
         Details:
-          - Fullstack development with Remix/TypeScript for AIFred and Configarr applications
-          - Automation of every Cloud resource, Testing and Deployment including Community interaction
-          - Server automation with Proxmox, OpenStack combined with K3s for Kubernetes
+          - Full-stack development with Remix/TypeScript for AIFred and Configarr
+          - Automation across cloud, testing, and deployment (including community integrations)
+          - Server automation with Proxmox and OpenStack; Kubernetes with K3s
         Badges:
           [
             "AWS",
@@ -286,8 +311,8 @@ Experience:
         Date: 04/2015 - 06/2017
         Details:
           - Development of international solutions for customs including export, import and transit
-          - Close co-operation with foreign counties
-          - Fullstack Development with Java (including JRebel, Eclipse, ...) and Custom Packages
+          - Close cooperation with foreign partners
+          - Full-stack development with Java (e.g. JRebel, Eclipse) and in-house frameworks
           - Automation and CI with Jenkins with multiple test stages
         Badges:
           [
@@ -403,7 +428,7 @@ Interests:
 Projects:
   - Name: VisualDataWeb
     Scope: OpenSource
-    Description: Took over Github Orga for the well known tools WebVOWL and OWL2VOWL. Strategic decision of what to do with the tools and how to maintain them.
+    Description: Took over the VisualDataWeb GitHub organization; widely used tools such as WebVOWL for ontology visualization.
     Links:
       - Label: VisualDataWeb
         Link: https://github.com/VisualDataWeb
@@ -433,7 +458,7 @@ Projects:
 
   - Name: Automation Guidance
     Scope: OpenSource
-    Description: Setting up automation and virtualization for customers to simply different use cases from home automation to multi container stacks with Proxmox and OpenStack. Inside those Kubernetes usage with different flavours like K3s, OpenShift and Talos.
+    Description: Setting up automation and virtualization for customers to simplify use cases from home automation to multi-container stacks with Proxmox and OpenStack, including Kubernetes in forms such as K3s, OpenShift, and Talos.
 
   - Name: Engilada - Crypto transaction provider (discontinued)
     Scope: raydak-labs

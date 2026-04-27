@@ -37,7 +37,8 @@ Experience:
           - Workshops und Beratung
           - Softwareentwicklung mit modernen Technologie-Stacks
           - OpenSource/Community Projekte und Support
-          - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot, ChatGPT, Claude Code, Gemini, Jules, ...
+          - AI-gestützte Lösungen und Implementierungen wie AI Agents und Toolings - Github Copilot, ChatGPT, Claude Code, Opencode, Pi, Gemini, ...
+          - Templates für AI-gestützte Entwicklung wie MCPs, Skills, Agents, ...
         Badges:
           [
             "AWS",
@@ -53,17 +54,35 @@ Experience:
             "AI Tools",
             "Go",
             "Pulumi",
+            "Opencode",
           ]
+
+  - Employer: OpenSource
+    Place: Stuttgart, DE
+    Positions:
+      - Title: Opensource Contributor
+        Date: 01/2020 - Heute
+        Details:
+          - Configarr - Ein Synchronisierungstool für Media-Stacks.
+          - VisualDataWeb - Übernahme der Github Organisation von VisualDataWeb
+          - Travo — Software für OpenWRT-Router zur Verwaltung von Netzwerkverbindungen, Firewall und weiteren Funktionen
+          - Blog zu verschiedenen Themen (u. a. DevOps, Cloud, Automatisierung)
+          - Beiträge zu verschiedenen Projekten wie Pulumi, OpenEBS, ...
+        Badges: ["AI", "Cloud", "Too much"]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
     Positions:
-      - Title: SRE Engineer & Principal Developer
+      - Title: Principal Developer & AI Expert
         Date: 10/2025 - Heute
         Details:
           - Python-Entwicklung und Modernisierung mehrerer Anwendungen in Führungsrolle
           - Verbesserung und Erweiterung bestehender Anwendungen sowie Verbesserung der Ausfallsicherheit und Stabilität
           - Automatisierung mehrerer OpenShift Cluster mit Pulumi
+          - Implementierung von AI-gestützten Lösungen zur Verbesserung der Anwendungsleistung und Benutzererfahrung
+          - Schulung und Implementierung von AI-Tools für das Team, um die Effizienz zu steigern und die Entwicklung zu beschleunigen
+          - Nutzung von Tools wie Github Copilot, Claude Code, Opencode, Pi
+          - Aufbereitung von Vorlagen wie Skills, MCPs und zugeschnitten Agents
         Badges:
           [
             "Pulumi",
@@ -81,12 +100,13 @@ Experience:
     Place: München, DE
     Positions:
       - Title: SRE Engineer & Cloud Architect
-        Date: 09/2025 - Heute
+        Date: 09/2025 - 02/2026
         Details:
           - TypeScript/Bun Backend-Entwicklung und API-Optimierung
           - Synchronisierung der Cloud-Einrichtung über mehrere Interessengruppen hinweg
           - Implementierung von Best Practices für Cloud-Sicherheit und Compliance
           - Aufbau eines vollständigen Monitoring- und Tracing-Stacks mit OpenTelemetry, Grafana, Loki, Prometheus, Tempo
+          - AI-gestützte Entwicklung mit Github Copilot und AI Agents
         Badges:
           [
             "AWS",
@@ -292,7 +312,7 @@ Experience:
         Details:
           - Entwicklung internationaler Lösungen für Zoll einschließlich Export, Import und Transit
           - Enge Zusammenarbeit mit ausländischen Partnern
-          - Fullstack Entwicklung mit  Java (including JRebel, Eclipse, ...) und firmeninternen Frameworks
+          - Fullstack-Entwicklung mit Java (u. a. JRebel, Eclipse) und firmeninternen Frameworks
           - Automatisierung mit Jenkins auf mehreren Stages
         Badges:
           [
