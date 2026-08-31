@@ -146,7 +146,7 @@ Experience:
           - Komplettes AWS-Setup, Deployment und Wartung für Teams/Produkte (Kubernetes - EKS, RDS, Cache, ...)
           - Migrationsstrategie und Umsetzung von On-Premise-Infrastruktur zu AWS
           - Migrationsstrategie und Umsetzung von einer CaaS-Plattform (Container as a Service) zu AWS
-          - Enterprise Architektur: Definition der Baseline-AWS-Umgebung und Architektur, die von vielen verschiedenen Teams genutzt wurde
+          - Enterprise Architektur, Definition der Baseline-AWS-Umgebung und Architektur, die von vielen verschiedenen Teams genutzt wurde
           - Kompletter Aufbau des Cloud Netzwerks mit OnPremise (IPAM, DNS)
           - Vollautomatisiertes CI/CD & IaC mit Terraform für AWS
 

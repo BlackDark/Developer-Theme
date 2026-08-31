@@ -146,7 +146,7 @@ Experience:
           - Complete AWS setup, deployment and maintenance for teams/products (Kubernetes - EKS, RDS, Cache, ...)
           - Migration strategy and execution from on-premise infrastructure to AWS
           - Migration strategy and execution from a CaaS (Container as a Service) platform to AWS
-          - Enterprise architecture: defined the baseline AWS environment and architecture reused by many different teams
+          - Enterprise architecture, defining the baseline AWS environment and architecture reused by many different teams
           - Complete setup of the cloud network with OnPremise (IPAM, DNS)
           - Fully automated CI/CD & IaC with Terraform for AWS
 
