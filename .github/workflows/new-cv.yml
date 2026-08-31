@@ -84,5 +84,5 @@ jobs:
       - name: Commit and push changes
         run: |
           git add .
-          git commit -m "Deploy build"
+          git diff --cached --quiet && echo "No changes to publish" || git commit -m "Deploy build"
           git push origin ${{ env.PUBLISH_BRANCH }} --force
