@@ -11,7 +11,7 @@ baseURL = "https://eduard-marbach.de/cv"
 title = "Eduard Marbach - CV"
 #googleAnalytics = ""
 
-languageCode = "en-us"
+locale = "en-us"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
 
@@ -19,17 +19,17 @@ defaultContentLanguageInSubdir = false
     [languages.de]
         contentDir = 'content/de'
         disabled = false
-        languageCode = 'de-DE'
-        languageDirection = 'ltr'
-        languageName = 'Deutsch'
+        locale = 'de-DE'
+        direction = 'ltr'
+        label = 'Deutsch'
         title = "Eduard Marbach - CV"
         weight = 1
     [languages.en]
         contentDir = 'content/en'
         disabled = false
-        languageCode = 'en-US'
-        languageDirection = 'ltr'
-        languageName = 'English'
+        locale = 'en-US'
+        direction = 'ltr'
+        label = 'English'
         title = "Eduard Marbach - CV"
         weight = 2
 

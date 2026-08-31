@@ -2,6 +2,12 @@
 
 Hugo-based CV site, theme `almeida-cv` vendored under `themes/`.
 
+## Tooling
+
+- Package manager: pnpm. Hugo binary comes from `hugo-extended` (devDependency), which exposes a `hugo` CLI directly — no more `hugo-bin`/buildTags config needed.
+- pnpm blocks postinstall scripts by default; `hugo-extended`'s install is allowed via `pnpm-workspace.yaml`'s `allowBuilds`. Don't remove that entry or the Hugo binary won't install.
+- CI (`.github/workflows/new-cv.yml`) uses `pnpm install --frozen-lockfile` + `pnpm run build`. Keep local and CI package manager in sync.
+
 ## Content
 
 - `data/content.yaml` — English content
