@@ -34,28 +34,14 @@ Experience:
         Date: 01/2022 - Present
         Details:
           - Professional architecture and consulting for cloud environments (especially AWS)
+          - Project lead for client cloud engagements, managing scope, delivery, and stakeholders
+          - Built and operate the full company infrastructure as code with Pulumi across AWS and Azure, reused as a baseline across client engagements, including web identity/auth
+          - Server setup and configuration with Proxmox
           - Workshops and consulting
           - Software development with modern technology stacks
           - Open-source and community projects and support
           - AI-supported solutions and implementations such as AI agents and tooling — GitHub Copilot, ChatGPT, Claude Code, Opencode, Pi, Gemini, ...
           - Templates for AI-assisted development such as MCPs, skills, agents, ...
-        Badges:
-          [
-            "AWS",
-            "Cloud",
-            "Docker",
-            "Kubernetes",
-            "NextJS",
-            "Oracle Cloud",
-            "React",
-            "Remix",
-            "TypeScript",
-            "Vercel",
-            "AI Tools",
-            "Go",
-            "Pulumi",
-            "Opencode",
-          ]
 
   - Employer: OpenSource
     Place: Stuttgart, DE
@@ -68,7 +54,6 @@ Experience:
           - Travo — software for OpenWRT routers to manage network connections, firewall, and related functions
           - Blog on various topics (including DevOps, cloud, automation)
           - Contributing to various projects such as Pulumi, OpenEBS, ...
-        Badges: ["AI", "Cloud", "Too much"]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -79,22 +64,13 @@ Experience:
           - Python development and modernization of multiple applications in a lead role
           - Improving and extending existing applications; improving resilience and stability
           - Automation of multiple OpenShift clusters with Pulumi
+          - Enterprise architecture for DNS, high availability, and resiliency across the network and application estate
           - Implementing AI-supported solutions to improve application performance and user experience
           - Training and rolling out AI tools for the team to increase efficiency and speed up development
           - Tools such as GitHub Copilot, Claude Code, Opencode, Pi
           - Preparing templates such as skills, MCPs, and tailored agents
-        Badges:
-          [
-            "Pulumi",
-            "Kubernetes",
-            "Python",
-            "DevOps",
-            "OpenShift",
-            "QIP",
-            "Nautobot",
-            "AWS",
-            "OpenTelemetry",
-          ]
+          - Live Upgrade with Enterprise DNS System (QIP23, QIP25)
+          - Extensive ansible setup with Ansible Automation Platform
 
   - Employer: Synava (Medavis, InformMe)
     Place: München, DE
@@ -104,25 +80,10 @@ Experience:
         Details:
           - TypeScript/Bun backend development and API optimization
           - Aligning cloud setup across stakeholder groups
+          - Migrated parts of the platform from external services to AWS-internal services, moving IaC from CDK to Terraform and Pulumi
           - Implementing best practices for cloud security and compliance
           - Building a full monitoring and tracing stack with OpenTelemetry, Grafana, Loki, Prometheus, Tempo
           - AI-assisted development with GitHub Copilot and AI agents
-        Badges:
-          [
-            "AWS",
-            "Cloud",
-            "Containers",
-            "DevOps",
-            "Grafana",
-            "IaC",
-            "Kubernetes",
-            "OpenTelemetry",
-            "Prometheus",
-            "Pulumi",
-            "Terraform",
-            "Bun",
-            "TypeScript",
-          ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -132,29 +93,10 @@ Experience:
         Details:
           - Python application development with modern tooling (uv, pytest) and migration from Lambda to Kubernetes
           - Building, modernizing, and consolidating on unified Infrastructure as Code (Pulumi) in AWS and Kubernetes
-          - Integrating different networking systems, including deep work on VitalQIP and solutions such as Cisco and Aruba, integrated into a network source of truth (Nautobot or NetBox)
+          - IT concept and migration strategy for consolidating IaC onto Pulumi in an automated AWS environment
+          - Integrating network systems (VitalQIP, Cisco, Aruba) into a network source of truth (Nautobot/NetBox)
           - Introduced and implemented the full monitoring and tracing stack with OpenTelemetry, Grafana, and Loki for the Python application
           - AI-assisted development with GitHub Copilot and AI agents
-        Badges:
-          [
-            "Pulumi",
-            "Kubernetes",
-            "Python",
-            "DevOps",
-            "Cloud",
-            "QIP",
-            "Nautobot",
-            "Network",
-            "AWS",
-            "Container",
-            "IaC",
-            "OpenTelemetry",
-            "Grafana",
-            "Tempo",
-            "Prometheus",
-            "Loki",
-            "AI Tools",
-          ]
 
   - Employer: CRBN AI
     Place: USA
@@ -163,28 +105,10 @@ Experience:
         Date: 06/2023 - 12/2024
         Details:
           - Fullstack development with React/TypeScript and backend integration with AI/LLM services
-          - AI solution for interacting with large document volumes in a simple and secure way
+          - AI solution for searching and querying large document volumes securely
           - Cloud setup & deployment, IaC, DevOps, security with Pulumi
+          - Migrated a legacy application's infrastructure from SparkleFormation to Pulumi to unify it into one straight deployment pipeline with the rest of the stack
           - Enterprise architecture with a focus on secure integration
-        Badges:
-          [
-            "AI",
-            "AWS",
-            "Azure",
-            "GPT",
-            "Kubernetes",
-            "LLM",
-            "Pulumi",
-            "React",
-            "Supabase",
-            "TypeScript",
-            "Vercel",
-            "OpenTelemetry",
-            "Grafana",
-            "Tempo",
-            "Prometheus",
-            "Loki",
-          ]
 
   - Employer: raydak GmbH
     Place: Stuttgart, DE
@@ -195,19 +119,6 @@ Experience:
           - Full-stack development with Remix/TypeScript for AIFred and Configarr
           - Automation across cloud, testing, and deployment (including community integrations)
           - Server automation with Proxmox and OpenStack; Kubernetes with K3s
-        Badges:
-          [
-            "AWS",
-            "Cloud",
-            "DevOps",
-            "Github Actions",
-            "Kubernetes",
-            "Netlify",
-            "Postgres",
-            "Remix",
-            "Typescript",
-            "Copilot",
-          ]
 
   - Employer: DB Systel
     Place: Frankfurt, DE
@@ -218,22 +129,10 @@ Experience:
           - Python development for network automation and integration systems
           - Modernizing Deutsche Bahn's future network infrastructure, based on Kubernetes
           - Responsible for designing and setting up the cloud architecture in AWS
-          - Responsible for full automation and rollout
+          - Project lead for the automated AWS infrastructure rollout
+          - Advised and supported the e-commerce/ticketing platform team in the passenger transport sector on cloud and infrastructure topics
+          - IT concepts for migration strategies in automated AWS environments
           - Implementation of different monitoring solutions for distributing, managing and securing the application landscape
-        Badges:
-          [
-            "AWS",
-            "Cloud",
-            "DevOps",
-            "Docker",
-            "Gitlab",
-            "QIP",
-            "Netbox/Nautobot",
-            "Kubernetes",
-            "Network",
-            "Python",
-            "Terraform",
-          ]
 
   - Employer: Mercedes-Benz AG
     Place: Sindelfingen, DE
@@ -245,24 +144,11 @@ Experience:
           - Development on MO360-FTK (Microfrontend Framework)
           - Project Lead & Development - Tool collection application
           - Complete AWS setup, deployment and maintenance for teams/products (Kubernetes - EKS, RDS, Cache, ...)
+          - Migration strategy and execution from on-premise infrastructure to AWS
+          - Migration strategy and execution from a CaaS (Container as a Service) platform to AWS
+          - Enterprise architecture: defined the baseline AWS environment and architecture reused by many different teams
           - Complete setup of the cloud network with OnPremise (IPAM, DNS)
           - Fully automated CI/CD & IaC with Terraform for AWS
-        Badges:
-          [
-            "Architecture",
-            "AWS",
-            "Azure DevOps",
-            "DevOps",
-            "DNS",
-            "Docker",
-            "IPAM",
-            "Kubernetes",
-            "Network",
-            "NodeJS",
-            "React",
-            "Terraform",
-            "TypeScript",
-          ]
 
       - Title: Software Developer (Production)
         Date: 06/2018 - 09/2019
@@ -274,16 +160,6 @@ Experience:
           - Different backend and infrastructure projects
           - Driving DevOps strategy based on CI/CD pipelines via Gitlab and Azure DevOps
           - Automation setup for everything possible
-        Badges:
-          [
-            "AWS",
-            "Azure DevOps",
-            "DevOps",
-            "Docker",
-            "Gitlab",
-            "Kubernetes",
-            "Typescript",
-          ]
       - Title: Software Developer (Research)
         Date: July 2017 - May 2018
         Details:
@@ -293,16 +169,6 @@ Experience:
           - Server-Management and administration with Rancher
           - Testing of DevOps strategies via CI/CD pipelines
           - Cultural Change, Agile Transformation and Coaching
-        Badges:
-          [
-            "Agile",
-            "DevOps",
-            "Docker",
-            "Fullstack",
-            "Machine Learning",
-            "Python",
-            "Rancher",
-          ]
 
   - Employer: AEB GmbH
     Place: Stuttgart, DE
@@ -314,15 +180,6 @@ Experience:
           - Close cooperation with foreign partners
           - Full-stack development with Java (e.g. JRebel, Eclipse) and in-house frameworks
           - Automation and CI with Jenkins with multiple test stages
-        Badges:
-          [
-            "CI/CD",
-            "DevOps",
-            "International",
-            "Java",
-            "Jenkins",
-            "Software Development",
-          ]
 
   - Employer: University Stuttgart
     Place: Stuttgart, DE
@@ -333,15 +190,6 @@ Experience:
           - Development WebVOWL
           - Development OWL2VOWL
           - Research in Semantic Web Technologies
-        Badges:
-          [
-            "Fullstack",
-            "Github",
-            "Javascript",
-            "NodeJS",
-            "Research",
-            "Software Development",
-          ]
 
 Education:
   - Course: M.Sc. in Software Engineering
@@ -369,13 +217,30 @@ Skills:
       - NodeJS
       - Python
       - Go
+  - Family: Database
+    Items:
+      - Postgres
+      - Supabase
+      - Redis
+      - Sybase
+  - Family: Network
+    Items:
+      - DNS
+      - IPAM
+      - QIP
+      - Nautobot
+      - NetBox
   - Family: DevOps & Cloud
     Items:
       - AWS
+      - Azure
       - Docker
       - Kubernetes
+      - OpenShift
       - Terraform
       - Pulumi
+      - AWS CDK
+      - Ansible
       - Azure DevOps
       - Oracle Cloud
       - Github Actions
@@ -387,6 +252,7 @@ Skills:
       - Scrum
       - JIRA
       - Confluence
+      - Jenkins
   - Family: Special
     Items:
       - Vercel
@@ -394,7 +260,13 @@ Skills:
       - Cloudflare Workers
       - Proxmox
       - Opnsense
+      - Rancher
+      - Bun
       - AI Toolings
+      - GitHub Copilot
+      - Opencode
+      - LLM/GPT (OpenAI, Anthropic)
+      - Machine Learning
   - Family: Monitoring & Observability
     Items:
       - OpenTelemetry
