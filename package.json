@@ -6,6 +6,7 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "packageManager": "pnpm@11.24.0",
   "scripts": {
     "build": "hugo --minify",
     "clean": "rimraf public/",
