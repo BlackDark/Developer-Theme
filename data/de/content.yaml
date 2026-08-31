@@ -307,7 +307,14 @@ Projects:
 
   - Name: Different projects
     Scope: raydak-labs
-    Description: Monitoring tools like Turbostat Exporter with Go, Pulumi Providers in Go
+    Description: Verschiedene Go/Kubernetes-Tools und Pulumi-Provider - Prometheus Turbostat Exporter (Monitoring von CPU C-States/Pkg-States), Kubernetes CSI-Driver für mergerfs (FUSE Union-Volumes mit Helm Chart), cert-manager ACME-DNS01-Webhook für Dynu, Pulumi-Provider für Netcup und F5OS sowie ein Renovate-Orchestrierungsserver über GitLab/GitHub.
+    Links:
+      - Label: github.com
+        Link: https://github.com/BlackDark
+
+  - Name: Jellyfin Plugins
+    Scope: OpenSource
+    Description: RemoteAuth (Trusted-Header SSO/Forward-Auth mit rollenbasiertem Bibliothekszugriff) und Empty Folder Cleaner.
     Links:
       - Label: github.com
         Link: https://github.com/BlackDark
@@ -334,13 +341,6 @@ Projects:
     Links:
       - Label: Github
         Link: https://github.com/raydak-labs/travo
-
-  - Name: eslint-plugin-pulumi
-    Scope: raydak-labs
-    Description: ESLint-Plugin zur Durchsetzung von Best Practices und Coding-Standards für Pulumi-Projekte in TypeScript.
-    Links:
-      - Label: Github
-        Link: https://github.com/raydak-labs/eslint-plugin-pulumi
 
   - Name: Automation Guidance
     Scope: OpenSource
