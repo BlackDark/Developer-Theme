@@ -4,9 +4,8 @@ Hugo-based CV site, theme `almeida-cv` vendored under `themes/`.
 
 ## Tooling
 
-- Package manager: pnpm. Hugo binary comes from `hugo-extended` (devDependency), which exposes a `hugo` CLI directly — no more `hugo-bin`/buildTags config needed.
-- pnpm blocks postinstall scripts by default; `hugo-extended`'s install is allowed via `pnpm-workspace.yaml`'s `allowBuilds`. Don't remove that entry or the Hugo binary won't install.
-- CI (`.github/workflows/new-cv.yml`) uses `pnpm install --frozen-lockfile` + `pnpm run build`. Keep local and CI package manager in sync.
+- Package manager: pnpm. Hugo comes from the `hugo-extended` devDependency, which exposes a `hugo` CLI directly.
+- pnpm blocks postinstall scripts by default. `hugo-extended`'s install is allowed via `pnpm-workspace.yaml`'s `allowBuilds` — don't remove that entry, or the Hugo binary won't install.
 
 ## Content
 
@@ -16,20 +15,14 @@ Hugo-based CV site, theme `almeida-cv` vendored under `themes/`.
 
 ## Skills sidebar
 
-- `Skills:` in content.yaml is a standalone inventory of everything the person knows, shown in the sidebar via `_skills.html`.
-- It does NOT need to trace 1:1 to what's written in Experience bullets. A CV can't list every tool ever used in the timeline text; the sidebar exists to cover the gap.
-- Do not treat "mentioned in Experience but missing from Skills" as a bug to fix, and do not remove a Skills entry just because no bullet mentions it. There are more real skills than what fits in the narrative text.
-
-## Experience badges (removed)
-
-- Per-role `Badges:` tags used to exist on Experience entries but were removed (duplicated the Skills sidebar). Do not re-add them.
+`Skills:` in content.yaml is a standalone inventory of everything the person knows, shown in the sidebar via `_skills.html`. It does not need to trace 1:1 to the Experience bullets — a CV can't list every tool used in the timeline text, and the sidebar covers that gap. A skill missing from Experience, or an Experience tool missing from Skills, is not a bug.
 
 ## Requirements-driven CV edits
 
-- When adding a bullet to satisfy a specific tender/job requirement, only add it if it's true — ask the user for real facts/dates rather than inferring or padding.
-- Avoid formulaic phrase reuse across multiple unrelated roles when it's a giveaway of tender-keyword insertion (e.g. don't just copy-paste "IT concept for migration strategy" into every role that touches AWS).
+- Only add a bullet to satisfy a tender/job requirement if it's true — ask the user for real facts/dates rather than inferring or padding.
+- Watch for formulaic phrase reuse across unrelated roles (e.g. the same "IT concept for migration strategy" wording copy-pasted into every AWS-touching role) — it reads as tender-keyword insertion, not genuine experience.
 
 ## Writing style
 
-- Use the `humanizer` skill (if available) when writing or editing CV bullets — strip AI-writing tells (inflated claims, filler phrases, forced clauses).
-- Keep bullets concise: short fragments over full clauses, matching the CV's existing terse style. A bullet that needs a semicolon or multiple connectors is a sign it should be split or trimmed.
+- Use the `humanizer` skill when writing or editing CV bullets, to strip AI-writing tells.
+- Keep bullets as short fragments, matching the CV's existing terse style. A bullet needing a semicolon or multiple connectors should be split or trimmed.
