@@ -51,7 +51,7 @@ Experience:
         Details:
           - Configarr — a synchronization tool for media stacks
           - VisualDataWeb — took over the GitHub organization for VisualDataWeb
-          - Travo — software for OpenWRT routers to manage network connections, firewall, and related functions
+          - Travo — dashboard for OpenWRT routers with WiFi management, VPN/service management, and system configuration (Go backend + React frontend)
           - Blog on various topics (including DevOps, cloud, automation)
           - Contributing to various projects such as Pulumi, OpenEBS, ...
 
@@ -327,6 +327,20 @@ Projects:
         Link: https://configarr.raydak.de
       - Label: Github
         Link: https://github.com/raydak-labs/configarr
+
+  - Name: Travo
+    Scope: raydak-labs
+    Description: Dashboard for OpenWRT routers with WiFi management (including hotel captive portal support), VPN/service management, and system configuration. Go backend and React frontend monorepo, cross-compiled for OpenWRT devices such as the GL.iNet Beryl AX and Slate AXT1800, with CI/CD publishing install tarballs as GitHub Releases.
+    Links:
+      - Label: Github
+        Link: https://github.com/raydak-labs/travo
+
+  - Name: eslint-plugin-pulumi
+    Scope: raydak-labs
+    Description: ESLint plugin enforcing best practices and coding standards for Pulumi projects written in TypeScript.
+    Links:
+      - Label: Github
+        Link: https://github.com/raydak-labs/eslint-plugin-pulumi
 
   - Name: Automation Guidance
     Scope: OpenSource
