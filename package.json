@@ -6,16 +6,13 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "hugo-bin": "^0.136.0"
-  },
   "scripts": {
     "build": "hugo --minify",
     "clean": "rimraf public/",
     "dev": "hugo server",
-    "start": "npm run dev"
+    "start": "pnpm dev"
   },
-  "hugo-bin": {
-    "buildTags": "extended"
+  "devDependencies": {
+    "hugo-extended": "^0.164.0"
   }
 }
